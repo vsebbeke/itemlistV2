@@ -24,7 +24,6 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th  style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -34,7 +33,6 @@ title: Shop
         {%- if item.price >= 0 -%}
         <tr>
             
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
@@ -51,10 +49,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;" width="20%">Name</th>
-            <th style="text-align:center;" width="10%">Damage</th>
-            <th style="text-align:center;" width="10%">Range</th>
             <th style="text-align:center;" width="10%">Cost</th>
             <th style="text-align:center;" width="20%">Category</th>
                         
@@ -87,10 +82,7 @@ title: Shop
               
         -%}
         <tr>
-            <td><img src={{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
-            <td style="text-align:center;">{{- item.damage -}}</td>
-            <td style="text-align:center;">{{- item.range -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
             
@@ -106,9 +98,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th  style="text-align:center;" width="10%">Image</th>
             <th  style="text-align:center;" >Name</th>
-            <th style="text-align:center;">Details</th>
             <th  style="text-align:center;">Cost</th>
             <th  style="text-align:center;">Category</th>
         </tr>
@@ -133,9 +123,7 @@ title: Shop
                 or item.category == site.data.language.str_HeyraHead
         -%}
         <tr>
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td  style="text-align:center;">{{- item.abr -}}</td>
-            <td  style="text-align:center; font-style:italic; color: #09cbd4; font-size: 17px;">{{- item.armourDetails -}}</td>
             <td  style="text-align:center;">{{- item.price -}}</td>
             <td  style="text-align:center;">{{- item.category -}}</td>
         </tr>
@@ -150,7 +138,6 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -170,7 +157,6 @@ title: Shop
                 or item.category == site.data.language.str_Ultratech
         -%}
         <tr>
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
@@ -187,7 +173,6 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -198,7 +183,6 @@ title: Shop
                and item.category == site.data.language.str_animal 
         -%}
         <tr>
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
@@ -215,7 +199,6 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -247,7 +230,6 @@ title: Shop
         
         -%}
         <tr>
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
@@ -265,7 +247,6 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -280,7 +261,6 @@ title: Shop
                 or item.category == site.data.language.str_DNET
         -%}
         <tr>
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
@@ -297,7 +277,6 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -312,7 +291,6 @@ title: Shop
                 or item.category == site.data.language.str_Lime_Art
         -%}
         <tr>
-            <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
@@ -416,8 +394,6 @@ title: Shop
     <table style="display: table" class="sortable">
         <tr>
             <th style="text-align:center; "width="15%">Name</th>
-            <th style="text-align:center;">Description</th>
-            <th style="text-align:center;">Stats</th>
             <th style="text-align:center;">Cost</th>
         </tr>
 
@@ -425,8 +401,6 @@ title: Shop
         {%- if item.enabled -%}
         <tr>
             <td style="text-align:center;">{{- item.name -}}</td>
-            <th style="text-align:center;">{{- item.description -}}</th>
-            <th style="text-align:center; font-style:italic; color: #09cbd4; font-size: 17px;">{{- item.data.stats -}}</th>
             <td style="text-align:center;">{{- item.price -}}</td>
         </tr>
         {%- endif -%}
