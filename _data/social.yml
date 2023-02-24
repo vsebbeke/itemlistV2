@@ -1,0 +1,37 @@
+# Icons on the footer
+rss: false
+email_address:
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github:
+instagram:
+keybase:
+linkedin:
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:
+steam:
+tumblr:
+twitter:
+vimeo:
+wordpress:
+youtube:
+twitch: Sathrek
+
+# Share button options
+share:
+  facebook: false
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket:
+  reddit: false
+  linkedin:
+  wordpress:
+  email: true

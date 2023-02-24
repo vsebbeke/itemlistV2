@@ -1,0 +1,626 @@
+---
+layout: page
+title: Shop
+---
+
+<div class="tab">
+    <button class="tablinks" onclick="changeTab(event, 'items')"
+        id="defaultOpen">{{- site.data.language.str_items -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'events')">{{- site.data.language.str_events -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'traits')">{{- site.data.language.str_traits -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'races')">{{- site.data.language.str_races -}}</button>
+	<button class="tablinks" onclick="changeTab(event, 'weapons')">{{- site.data.language.str_weapons -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'apparel')">{{- site.data.language.str_apparel -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'medical')">{{- site.data.language.str_medical -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'furniture')">{{- site.data.language.str_furniture -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'animal')">{{- site.data.language.str_animals -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'food')">{{- site.data.language.str_food -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'drugs')">{{- site.data.language.str_drugs -}}</button>
+</div>
+
+<div id="items" class="tabcontent">
+    <input type="text" class="search" id="itemsInput" onkeyup="filterTable('items')"
+        placeholder="{{- site.data.language.str_items_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th  style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 -%}
+        <tr>
+            
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+
+<div id="weapons" class="tabcontent">
+    <!-- <input type="text" class="search" id="weaponsInput" onkeyup="filterTable('weapons')"
+        placeholder="{{- site.data.language.str_weapons_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;" width="20%">Name</th>
+            <th style="text-align:center;" width="10%">Damage</th>
+            <th style="text-align:center;" width="10%">Range</th>
+            <th style="text-align:center;" width="10%">Cost</th>
+            <th style="text-align:center;" width="20%">Category</th>
+                        
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_Ranged_Weapons
+                or item.category == site.data.language.str_Melee_Weapons
+                or item.category == site.data.language.str_AR.
+                or item.category == site.data.language.str_BAS
+              or item.category == site.data.language.str_DMR
+              or item.category == site.data.language.str_LMG
+              or item.category == site.data.language.str_Pistol
+              or item.category == site.data.language.str_Shotgun
+              or item.category == site.data.language.str_SMG
+              or item.category == site.data.language.str_Spacer
+              or item.category == site.data.language.str_Wands
+              or item.category == site.data.language.str_SpecialWeapon
+              or item.category == site.data.language.str_Shield
+              or item.category == site.data.language.str_MagicFoci
+              or item.category == site.data.language.str_HeyranWep
+              or item.category == site.data.language.str_ArcaneHammer
+              or item.category == site.data.language.str_ArcaneStave
+              or item.category == site.data.language.str_ArcaneSpear
+              or item.category == site.data.language.str_ArcaneSword
+              or item.category == site.data.language.str_ArcaneGreatS
+              or item.category == site.data.language.str_ArcaneBow
+              or item.category == site.data.language.str_ArcaneBAxe
+              
+        -%}
+        <tr>
+            <td><img src={{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.damage -}}</td>
+            <td style="text-align:center;">{{- item.range -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+            
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="apparel" class="tabcontent">
+    <!--<input type="text" class="search" id="apparelInput" onkeyup="filterTable('apparel')"
+        placeholder="{{- site.data.language.str_apparel_search -}}">-->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th  style="text-align:center;" width="10%">Image</th>
+            <th  style="text-align:center;" >Name</th>
+            <th style="text-align:center;">Details</th>
+            <th  style="text-align:center;">Cost</th>
+            <th  style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_apparel 
+                or item.category == site.data.language.str_MagicApp
+                or item.category == site.data.language.str_Accessories
+                or item.category == site.data.language.str_Armor
+                or item.category == site.data.language.str_Loadbearing_Gear
+                or item.category == site.data.language.str_Magic_Equip
+                or item.category == site.data.language.str_Body_Gear
+                or item.category == site.data.language.str_Footwear
+                or item.category == site.data.language.str_Headgear
+                or item.category == site.data.language.str_Noble_Apparel
+                or item.category == site.data.language.str_BA
+                or item.category == site.data.language.str_CJ
+                or item.category == site.data.language.str_Helmet
+                or item.category == site.data.language.str_OuterGear
+                or item.category == site.data.language.str_HeyraApp
+                or item.category == site.data.language.str_HeyraHead
+        -%}
+        <tr>
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td  style="text-align:center;">{{- item.abr -}}</td>
+            <td  style="text-align:center; font-style:italic; color: #09cbd4; font-size: 17px;">{{- item.armourDetails -}}</td>
+            <td  style="text-align:center;">{{- item.price -}}</td>
+            <td  style="text-align:center;">{{- item.category -}}</td>
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="medical" class="tabcontent">
+    <!--<input type="text" class="search" id="medicalInput" onkeyup="filterTable('medical')"
+        placeholder="{{- site.data.language.str_medical_search -}}">-->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_Animal_body_Part 
+                or item.category == site.data.language.str_Archotech
+                or item.category == site.data.language.str_Bionic
+                or item.abr == site.data.language.str_HealerMechSerum
+                or item.abr == site.data.language.str_RessurectorMechSerum
+                or item.category == site.data.language.str_Medicine
+                or item.category == site.data.language.str_Natural
+                or item.category == site.data.language.str_Prostethic
+                or item.category == site.data.language.str_SimpleParts
+                or item.category == site.data.language.str_Ultratech
+        -%}
+        <tr>
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="animal" class="tabcontent">
+   <!-- <input type="text" class="search" id="animalInput" onkeyup="filterTable('animals')"
+        placeholder="{{- site.data.language.str_animal_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_animal 
+        -%}
+        <tr>
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="food" class="tabcontent">
+    <!--<input type="text" class="search" id="animalInput" onkeyup="filterTable('food')"
+        placeholder="{{- site.data.language.str_food_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_Animal_Feed 
+                or item.category == site.data.language.str_Eggs_Fert
+                or item.category == site.data.language.str_Eggs_Unfert
+                or item.category == site.data.language.str_Fine_Meals
+                or item.category == site.data.language.str_Foods
+                or item.category == site.data.language.str_Fruits
+                or item.category == site.data.language.str_Garden_Alcohol
+                or item.category == site.data.language.str_Garden_Soda
+                or item.category == site.data.language.str_Ingredients
+                or item.category == site.data.language.str_Lavish_Meals
+                or item.category == site.data.language.str_MRE_Rations
+                or item.category == site.data.language.str_Meals
+                or item.category == site.data.language.str_Processed_fruits
+                or item.category == site.data.language.str_Processed_grains
+                or item.category == site.data.language.str_Processed_meat
+                or item.category == site.data.language.str_Processed_Sweets
+                or item.category == site.data.language.str_raw_fish
+	            or item.category == site.data.language.str_vege	    
+                or item.category == site.data.language.str_simple_meals
+                or item.category == site.data.language.str_snacks
+                or item.category == site.data.language.str_sweets
+        
+        -%}
+        <tr>
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+
+<div id="drugs" class="tabcontent">
+   <!-- <input type="text" class="search" id="animalInput" onkeyup="filterTable('drugs')"
+        placeholder="{{- site.data.language.str_drugs_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_drugs 
+                or item.category == site.data.language.str_alcohol_precursor
+                or item.category == site.data.language.str_plant_matter
+                or item.category == site.data.language.str_Garden_Alcohol
+                or item.category == site.data.language.str_DNET
+        -%}
+        <tr>
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="furniture" class="tabcontent">
+   <!-- <input type="text" class="search" id="furnitureInput" onkeyup="filterTable('furniture')"
+        placeholder="{{- site.data.language.str_furniture_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;" width="10%">Image</th>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_furniture 
+                or item.category == site.data.language.str_Hygiene
+                or item.category == site.data.language.str_Misc
+                or item.category == site.data.language.str_Trophy
+                or item.category == site.data.language.str_Lime_Art
+        -%}
+        <tr>
+            <td><img src= {{item.fileName}} width="80"></img></td>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            <td style="text-align:center;">{{- item.price -}}</td>
+            <td style="text-align:center;">{{- item.category -}}</td>
+
+        </tr>
+        
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+
+<div id="events" class="tabcontent">
+   <!-- <input type="text" class="search" id="eventsInput" onkeyup="filterTable('events')"
+        placeholder="{{- site.data.language.str_events_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Cost</th>
+            <th style="text-align:center;">Karma Type</th>
+        </tr>
+
+        {%- for item in site.data.StoreIncidents.incitems -%}
+        {%- if item.price > 0 -%}
+        <tr>
+            <td style="text-align:center;">{{- item.abr -}}</td>
+            {%- if item.abr == site.data.language.str_trait_id or item.abr == site.data.language.str_removetrait_id -%}
+            <td>{{- site.data.language.str_seetraits -}}</td>
+            {%- elsif item.abr == site.data.language.str_pawn_id -%}
+            <td>{{- site.data.language.str_seeraces -}}</td>
+            {%- else -%}
+            <td style="text-align:center;">{{- item.price -}}</td>
+            {%- endif -%}
+            <td style="text-align:center;">{{- item.karmatype -}}</td>
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="traits" class="tabcontent">
+   <!--  <input type="text" class="search" id="traitsInput" onkeyup="filterTable('traits')"
+        placeholder="{{- site.data.language.str_traits_search -}}"> -->
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center;">Name</th>
+            <th style="text-align:center;">Description</th>
+            <th  style="text-align:center;"style="width: 15%">Add Cost</th>
+            <th  style="text-align:center;"style="width: 15%">Remove Cost</th>
+        </tr>
+
+        {%- for item in site.data.ShopExt.traits -%}
+        {%- if item.canAdd or item.canRemove -%}
+        <tr>
+            <td style="text-align:center;">{{- item.name | capitalize -}}</td>
+            <td style="font-size: 17px;">
+                {{- item.description -}}
+
+                {%- capture temp -%}
+                {{- item.stats | first -}}
+                {%- endcapture -%}
+
+                {%- if temp != "" -%}
+                <span style="font-style:italic; color: #09cbd4; font-size: 17px;">
+                    <br />
+                    <br />
+                    {{- site.data.language.str_trait_stats -}}
+
+                    <ul>
+                        {%- for stat in item.stats -%}
+                        <li>{{- stat -}}</li>
+                        {%- endfor -%}
+                    </ul>
+                </span>
+                {%- endif -%}
+            </td>
+
+            {%- if item.canAdd -%}
+            <td>{{- item.addPrice -}}</td>
+            {%- else -%}
+            <td>{{- site.data.language.str_disabled -}}</td>
+            {%- endif -%}
+
+            {%- if item.canRemove -%}
+            <td>{{- item.removePrice -}}</td>
+            {%- else -%}
+            <td>{{- site.data.language.str_disabled -}}</td>
+            {%- endif -%}
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="races" class="tabcontent">
+    <input type="text" class="search" id="racesInput" onkeyup="filterTable('races')"
+        placeholder="{{- site.data.language.str_races_search -}}"> 
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th style="text-align:center; "width="15%">Name</th>
+            <th style="text-align:center;">Description</th>
+            <th style="text-align:center;">Stats</th>
+            <th style="text-align:center;">Cost</th>
+        </tr>
+
+        {%- for item in site.data.ShopExt.races -%}
+        {%- if item.enabled -%}
+        <tr>
+            <td style="text-align:center;">{{- item.name -}}</td>
+            <th style="text-align:center;">{{- item.description -}}</th>
+            <th style="text-align:center; font-style:italic; color: #09cbd4; font-size: 17px;">{{- item.data.stats -}}</th>
+            <td style="text-align:center;">{{- item.price -}}</td>
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+
+<script>
+    document.getElementById("defaultOpen").click();
+
+    function changeTab(evt, category) {
+        var i, tabcontent, tablinks;
+
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        document.getElementById(category).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    function filterTable(category) {
+        var input, filter, table, tr, td, i, textValue, column, price, priceSearch;
+        input = document.getElementById(category + "Input")
+        filter = input.value.toUpperCase();
+        table = document.getElementById(category).lastElementChild;
+        tr = table.getElementsByTagName("tr");
+        column = 0;
+        price = 0;
+        priceSearch = 1;
+
+        if (filter.startsWith("CATEGORY:") && category == "items") 
+		{
+            filter = filter.substring("category".length + 1);
+            column = 2;
+        }
+
+        if (filter.startsWith("KARMA:") && category == "events") {
+            filter = filter.substring("karma".length + 1);
+            column = 2;
+        }
+
+
+        if (category != "traits") {
+            if (filter.startsWith("BELOW:")) {
+                filter = filter.substring("below".length + 1);
+                column = 1;
+                price = parseInt(filter);
+                priceSearch = -1;
+            }
+            if (filter.startsWith("ABOVE:")) {
+                filter = filter.substring("above".length + 1);
+                column = 1;
+                price = parseInt(filter);
+                priceSearch = 1;
+            }
+
+            if (filter.startsWith("EQUALS:")) {
+                filter = filter.substring("equals".length + 1);
+                column = 1;
+                price = parseInt(filter);
+                priceSearch = 0;
+            }
+        } else {
+            if (filter.startsWith("ADDBELOW:")) {
+                filter = filter.substring("addbelow".length + 1);
+                column = 2;
+                price = parseInt(filter);
+                priceSearch = -1;
+            }
+            if (filter.startsWith("ADDABOVE:")) {
+                filter = filter.substring("addabove".length + 1);
+                column = 2;
+                price = parseInt(filter);
+                priceSearch = 1;
+            }
+
+            if (filter.startsWith("ADDEQUALS:")) {
+                filter = filter.substring("addequals".length + 1);
+                column = 2;
+                price = parseInt(filter);
+                priceSearch = 0;
+            }
+
+            if (filter.startsWith("REMOVEBELOW:")) {
+                filter = filter.substring("removebelow".length + 1);
+                column = 3;
+                price = parseInt(filter);
+                priceSearch = -1;
+            }
+            if (filter.startsWith("REMOVEABOVE:")) {
+                filter = filter.substring("removeabove".length + 1);
+                column = 3;
+                price = parseInt(filter);
+                priceSearch = 1;
+            }
+
+            if (filter.startsWith("REMOVEEQUALS:")) {
+                filter = filter.substring("removeequals".length + 1);
+                column = 3;
+                price = parseInt(filter);
+                priceSearch = 0;
+            }
+        }
+
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[column];
+
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+
+                if ((category != "traits" && column != 1) || (category == "traits" && column < 2)) {
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                } else {
+                    intValue = parseInt(txtValue);
+
+                    switch (priceSearch) {
+                        case 0:
+                            tr[i].style.display = (intValue == price) ? "" : "none";
+                            break;
+                        case 1:
+                            tr[i].style.display = (intValue > price) ? "" : "none";
+                            break;
+                        case -1:
+                            tr[i].style.display = (intValue < price) ? "" : "none";
+                            break;
+                    }
+                }
+            }
+        }
+    }
+</script>
+
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
+<style>
+    .tab {
+        overflow: hidden;
+        border: 1px solid #616161;
+        background-color: #616161;
+    }
+
+    .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+    }
+
+    .tab button:hover {
+        background-color: #2b2b2b;
+    }
+
+    .tab button.active {
+        background-color: #2b2b2b;
+    }
+
+    .tabcontent {
+        display: none;
+        animation: fadeEffect 320ms;
+        border-top: none;
+    }
+
+    @keyframes fadeEffect {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+
+    .search {
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 20px 12px 40px;
+        border: 1px solid #616161;
+        margin-bottom: 12px;
+        background-color: #181818
+    }
+</style>
