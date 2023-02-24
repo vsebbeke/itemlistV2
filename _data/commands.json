@@ -1,4 +1,22 @@
-﻿[
+[
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitCore"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "HelloWorld"
+  },
   {
     "data": {
       "isShortcut": false,
@@ -210,7 +228,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -1150,41 +1168,5 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Divorce"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitCore"
-    },
-    "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinRaid"
   }
 ]
