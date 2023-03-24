@@ -439,7 +439,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "revive": {
+  "reviveanypawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

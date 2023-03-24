@@ -18,6 +18,18 @@
     "version": "1.4.1.1"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -30,10 +42,106 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Leigh",
+    "name": "Pack Mules Extended - Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "AlumiRR",
+    "name": "Biotech: Reptilian Humanoids Mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8420.33175"
+  },
+  {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.5"
+    "version": "2.6.0.6"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "Spino and Sarg",
+    "name": "Megafauna",
+    "steamId": "1055485938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirRandoo",
@@ -42,16 +150,46 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andreas Pardeike and BleuSquid",
     "name": "Puppeteer",
     "steamId": "2594873651",
     "version": "1.6.3.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Odeum",
+    "name": "World Map Beautification Project",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "CrashM",
@@ -118,12 +256,6 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.5.2.0"
-  },
-  {
-    "author": "VinaLx and Owlchemist",
-    "name": "ResearchPowl",
-    "steamId": "2877856030",
-    "version": "1.4"
   },
   {
     "author": "Orion",
