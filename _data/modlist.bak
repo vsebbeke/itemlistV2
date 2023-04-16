@@ -24,6 +24,30 @@
     "version": "2.7.9"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Killathon",
+    "name": "Android Tiers Reforged",
+    "steamId": "2917948202",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Darth_Sergeant",
     "name": "Centipede Raid Value",
     "steamId": null,
@@ -46,12 +70,6 @@
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.4.1.1"
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
@@ -96,12 +114,6 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Research Tree",
     "steamId": "2608058938",
@@ -118,12 +130,6 @@
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
     "version": "1.4.1.1"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
   },
   {
     "author": "Andreas Pardeike",

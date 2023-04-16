@@ -3473,6 +3473,94 @@
       },
       "defName": "VCEF_Fisherman",
       "name": "fisherman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a deep fondness toward all organic life, seeing them as the pinnacle of culture and existence. Timmy aspires to be as organic as possible, whatever that means to them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android Tiers Reforged",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ATR_FeelingsTowardOrganics",
+      "name": "lovesorganics"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy naturally respects and is willing to trust organic life, understanding and supporting their nature.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android Tiers Reforged",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ATR_FeelingsTowardOrganics",
+      "name": "respectsorganics"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy does not understand why anyone would want to be organically based, and tries to avoid dealing with them where possible.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android Tiers Reforged",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ATR_FeelingsTowardOrganics",
+      "name": "disrespectsorganics"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy despises organic life, and is barely willing to tolerate its presence. Barely.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android Tiers Reforged",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ATR_FeelingsTowardOrganics",
+      "name": "hatesorganics"
     }
   ],
   "races": [
@@ -3497,6 +3585,141 @@
       "enabled": true,
       "name": "human",
       "price": 200
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+32.50 Mass",
+          "+0% Flammability",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$1000 Market value",
+          "+3.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+16% Mental break threshold",
+          "+0% Global learning factor",
+          "+60% Global work speed",
+          "+10.00% Social impact",
+          "+5.0% Armor - Blunt",
+          "+15.0% Armor - Sharp",
+          "+75% Maintenance retention efficiency"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Tier one androids are simply humanlike-machines, designed to mimic the general image and minimal capabilities of humanity. Lacking true sapience, many view them like very intelligent and responsive animals. Their existence is to serve, and they do so uncomplainingly.\n\nDue to minimal investment and design, tier one androids suffer from maintenance and efficiency flaws, leaving them relatively obsoleted by later, more durable, iterations - except for jobs where minimal specifications and resources is explicitly required or desired.",
+      "defName": "ATR_Tier1Android",
+      "enabled": true,
+      "name": "T1 Android",
+      "price": 1667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+62.50 Mass",
+          "+0% Flammability",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$1600 Market value",
+          "+4.10 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+80% Global work speed",
+          "+28% Mental break threshold",
+          "+80% Global learning factor",
+          "+10.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+100% Maintenance retention efficiency"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The most common tier of androids, tier two androids are classified as the lowest specifications required for fully autonomous sapience. When fully clothed or when viewed from afar, they are easily mistaken for shorter, scrawnier humans. Indeed, tier two intelligences are often the most humanlike and most likely to seek integration into human society.",
+      "defName": "ATR_Tier2Android",
+      "enabled": true,
+      "name": "T2 Android",
+      "price": 2667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+92.50 Mass",
+          "+0% Flammability",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$2400 Market value",
+          "+5.10 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+120% Global work speed",
+          "+35% Mental break threshold",
+          "+120% Global learning factor",
+          "+120.00% Social impact",
+          "+20.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+140% Maintenance retention efficiency"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Androids classified as tier three are often qualified by their large stature - standing at a height ranging from seven to nine feet - and impressive capabilities. They are incredibly durable, modular, and capable. Requiring extensive amounts of rare resources, they are generally only mass-produced on glitterworlds.",
+      "defName": "ATR_Tier3Android",
+      "enabled": true,
+      "name": "T3 Android",
+      "price": 4000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+72.50 Mass",
+          "+0% Flammability",
+          "+100% Pain shock threshold",
+          "+50% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$4000 Market value",
+          "+5.60 Move speed",
+          "-30.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+42% Mental break threshold",
+          "+160% Global learning factor",
+          "+140% Global work speed",
+          "+160.00% Social impact",
+          "+20.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+180% Maintenance retention efficiency"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The pinnacle of known android theory and practice, the class of tier four androids is marked by the possession of a special AI persona core. While these cores are ultratech technology, the chassis and internals are all high spacer technology. \n\nTier four androids are a cut above the rest, and they know it too - ego complexes and disdain toward others are very common amongst them.",
+      "defName": "ATR_Tier4Android",
+      "enabled": true,
+      "name": "T4 Android",
+      "price": 6667
     }
   ]
 }

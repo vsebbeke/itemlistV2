@@ -1720,54 +1720,6 @@
       "addPrice": 2000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows.",
-      "stats": [
-        "x115% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x115% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Biotech",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Delicate",
-      "name": "delicate"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 3000,
-      "degree": 0,
-      "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Biotech",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Recluse",
-      "name": "recluse"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 3000,
-      "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [],
       "conflicts": [
