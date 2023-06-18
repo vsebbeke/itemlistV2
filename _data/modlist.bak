@@ -30,6 +30,36 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
     "author": "Carny Senpai",
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
@@ -42,9 +72,27 @@
     "version": "2.7.7366"
   },
   {
-    "author": "Killathon",
-    "name": "Android Tiers Reforged",
-    "steamId": "2917948202",
+    "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rah",
+    "name": "Rah's Bionics and Surgery Expansion",
+    "steamId": "850429707",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
     "version": "1.0.0.0"
   },
   {
@@ -52,6 +100,24 @@
     "name": "Centipede Raid Value",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8393.27870"
   },
   {
     "author": "Unon",
@@ -123,7 +189,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.4.0"
+    "version": "1.12.6.0"
   },
   {
     "author": "jecrell and contributors",
@@ -156,22 +222,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Central Heating",
-    "steamId": "2619214952",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "Spincrus",
@@ -186,28 +240,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Mythic",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
   },
   {
     "author": "Sarg Bjornson and AFriend",
@@ -218,12 +254,6 @@
   {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oracle of Thessia",
-    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -243,7 +273,7 @@
     "author": "Mlie",
     "name": "Weapons Sorter",
     "steamId": "2290406586",
-    "version": "1.4.2"
+    "version": "1.4.4"
   },
   {
     "author": "Oskar Potocki and Kikohi",
@@ -302,8 +332,8 @@
   {
     "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
@@ -386,8 +416,8 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
@@ -412,12 +442,6 @@
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
   },
   {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
@@ -462,12 +486,6 @@
     "version": null
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b6"
-  },
-  {
     "author": "Hob Took",
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
@@ -504,6 +522,18 @@
     "version": null
   },
   {
+    "author": "Orion",
+    "name": "Therapy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius and Hazzer",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "1.4.0"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -531,13 +561,31 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.5.2.0"
+    "version": "1.6.5.0"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
     "version": "3.5.2.0"
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Animal Equipment",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "bodlosh",
@@ -555,19 +603,13 @@
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "3.2.2.1065"
+    "version": "4.0.2.7572"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.5.2.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Therapy",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Janson",

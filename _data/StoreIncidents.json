@@ -21,11 +21,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -216,11 +211,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -377,7 +367,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -436,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 85
 }
