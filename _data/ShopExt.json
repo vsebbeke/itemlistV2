@@ -3557,7 +3557,7 @@
       },
       "description": "Mark two bishop units, like their Mark 1 predecessors, are inhuman looking machines built for war. With six limbs that interchangeably act as legs and arms and backup internalized visual sensors, these slender, tall war units are exceedingly tough to take out of fights. More expensive than M1 warriors, the M2 is designed for fighting where mass quantity can't be engaged in full capacity and where a slight quality increase can win the day. These are units crafted for combat, both defensively and offensively, and can hold or push a line with steely determination.\n\nLike its predecessor, it is incapable of wearing apparel and comes in a default red paint color. Due to its thin build and considerable height, it has earned the nicknames \"deathstick,\" and \"warpole,\" while its distinctive \"head\" segment earned it its most common nickname: \"Bishop.\"",
       "defName": "ATM_Mark2Bishop",
-      "enabled": true,
+      "enabled": false,
       "name": "M2 Bishop",
       "price": 2167
     },
@@ -3596,7 +3596,7 @@
       },
       "description": "The very first military variant idealized, blueprinted, and created by artifical intelligences alone, the mark three variant is as unique as it is aesthetically lacking in the form of a rectangular prism with two forward arms and four large manipulators. It has a very odd design choice: rather than being heavily armored to prevent taking damage, M3's instead have a highly reactive hyperweave-infused chassis that significantly reduces incoming damage. The more damage it sustains, the more resilient against damage it becomes - making M3's a warfighting champion. Specialized hardware vastly increases rate of fire.\n\nThe earliest M3's - contrary to expectation - took to their military role eagerly, and quickly developed a militaristic group ideology that often is likened to ancient chivalric customs. Duels, ritualistic combat, and mild disdain for non-combatants are common. While M3's exhibit no strong moralistic tendencies as a group, violence should be expected from individuals that are insulted or suffer breakdowns.\n\nDue to their large size and shape, they earned the nickname \"Warwagon\" - but the proud M3's prefer to use the nickname \"Paladin.\" Few are brave enough to challenge their choice. Many have died for making unflattering comparisons between paladins and mechanoid centipedes.",
       "defName": "ATM_Mark3Paladin",
-      "enabled": true,
+      "enabled": false,
       "name": "M3 Paladin",
       "price": 3333
     },
@@ -3632,7 +3632,7 @@
       },
       "description": "Mark four units were an accident, originally borne of an ultratech society's misadventure with archotech research. This semi-gelatinous mass of mechanites takes human form, and has a plethora of odd properties. Capable of wearing human apparel, devoid of coolant and distinct limbs, uniquely psychically gifted with a very human-like brain that can absorb archotech devices like mechlinks and neuroformers, possessed of a body that reacts to harm like paladins do, immune to overheating and freezing, even able to eject a mass of mechanites to incapacitate a foe in close combat at a cost to health, these are powerful beings indeed. Their creation requires a level of compression and energy only achievable under the weight of entire stars - but raving mad prophets claim the M4 is a hierophant, and can be \"naturally born\" by the true gift of the archotechs.\n\nDespite everything, as a group, they behave like and have the desires of normal individuals. Others refer to the M4 as a \"Jellyman\" or \"Gray goo,\" names of which the individuals do not seem to mind as long as they can participate in society on equal terms.",
       "defName": "ATM_Mark4Jellyman",
-      "enabled": true,
+      "enabled": false,
       "name": "M4 Jellyman",
       "price": 6667
     },
@@ -3669,7 +3669,7 @@
       },
       "description": "The Mark five is the product of ingenious engineering and a startling lack of actual creativity. Necessitating an orbital production facility with instruments of picoscoping precision and an interstellar empire's worth of logistical supply to manufacture, the Mark five is a testament to human achievement. It is, however, still generally considered a collosal failure of a design. Inexplicably, designers gave it a humanlike form and built it in a way that made it wholly incompatible with pre-existing technology and tactics, even going so far as to somehow give it less actual intelligence than a mark two.\n\nHow such a machine ended up here is not understood, but it is safe to say this is likely one of the single most dangerous entities on the planet.",
       "defName": "ATM_Mark5Titan",
-      "enabled": true,
+      "enabled": false,
       "name": "M5 Titan",
       "price": 30000
     },
@@ -3742,7 +3742,7 @@
       },
       "description": "The most common tier of androids, tier two androids are classified as the lowest specifications required for fully autonomous sapience. When fully clothed or when viewed from afar, they are easily mistaken for shorter, scrawnier humans. Indeed, tier two intelligences are often the most humanlike and most likely to seek integration into human society.",
       "defName": "ATR_Tier2Android",
-      "enabled": true,
+      "enabled": false,
       "name": "T2 Android",
       "price": 2667
     },
@@ -3779,7 +3779,7 @@
       },
       "description": "Androids classified as tier three are often qualified by their large stature - standing at a height ranging from seven to nine feet - and impressive capabilities. They are incredibly durable, modular, and capable. Requiring extensive amounts of rare resources, they are generally only mass-produced on glitterworlds.",
       "defName": "ATR_Tier3Android",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "price": 4000
     },
@@ -3816,7 +3816,7 @@
       },
       "description": "The pinnacle of known android theory and practice, the class of tier four androids is marked by the possession of a special AI persona core. While these cores are ultratech technology, the chassis and internals are all high spacer technology. \n\nTier four androids are a cut above the rest, and they know it too - ego complexes and disdain toward others are very common amongst them.",
       "defName": "ATR_Tier4Android",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "price": 6667
     }

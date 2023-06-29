@@ -42,22 +42,16 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Advanced Bionics Expansion",
+    "author": "MRGames",
+    "name": "Removes Skill Decay",
     "steamId": null,
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Carny Senpai",
@@ -100,18 +94,6 @@
     "name": "Centipede Raid Value",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": "2435838514",
-    "version": "1.1.1.7"
   },
   {
     "author": "erdelf",
@@ -198,6 +180,36 @@
     "version": "1.4.1.1"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b12"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
@@ -220,12 +232,6 @@
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "Spincrus",
@@ -336,6 +342,30 @@
     "version": "1.0.1.0"
   },
   {
+    "author": "Killathon",
+    "name": "Mechanical Humanlikes Core",
+    "steamId": "2974524016",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers Core",
+    "steamId": "2974536022",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Military Tiers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Mechanical Biomimetics",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -346,6 +376,12 @@
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers",
+    "steamId": "2974546748",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -603,7 +639,7 @@
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "4.0.2.7572"
+    "version": "4.0.3.3352"
   },
   {
     "author": "Andreas Pardeike",
