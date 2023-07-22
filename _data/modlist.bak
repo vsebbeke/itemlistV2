@@ -6,10 +6,46 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.4.1.1"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "10.0.1"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b12"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -18,16 +54,46 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "zymex",
-    "name": "Project RimFactory Revived",
-    "steamId": "2033979700",
-    "version": "2.7.9"
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "Mechanical Humanlikes Core",
+    "steamId": "2974524016",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers Core",
+    "steamId": "2974536022",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers",
+    "steamId": "2974546748",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Mechanical Biomimetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Military Tiers",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -40,6 +106,12 @@
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "4.2.4.0"
   },
   {
     "author": "MRGames",
@@ -60,18 +132,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Central Heating",
-    "steamId": "2619214952",
-    "version": "2.7.7366"
-  },
-  {
     "author": "Sandy",
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
@@ -81,12 +141,6 @@
     "author": "Rah",
     "name": "Rah's Bionics and Surgery Expansion",
     "steamId": "850429707",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NoImageAvailable",
-    "name": "Mass Graves",
-    "steamId": "1542386771",
     "version": "1.0.0.0"
   },
   {
@@ -174,42 +228,6 @@
     "version": "1.12.6.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": "2435838514",
-    "version": "1.1.1.7"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
@@ -231,24 +249,6 @@
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "the_heye",
-    "name": "Twitch Chat",
-    "steamId": "2075845400",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "GHXX",
-    "name": "Tech Advancing",
-    "steamId": "735268789",
     "version": "1.0.0.0"
   },
   {
@@ -285,7 +285,7 @@
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Helixien Gas Expanded",
     "steamId": "2877699803",
-    "version": "1.0.0.0"
+    "version": "1.0.1.0"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
@@ -342,30 +342,6 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "Killathon",
-    "name": "Mechanical Humanlikes Core",
-    "steamId": "2974524016",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "MH: Android Tiers Core",
-    "steamId": "2974536022",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "MH: Military Tiers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Killathon",
-    "name": "MH: Mechanical Biomimetics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -376,12 +352,6 @@
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Killathon",
-    "name": "MH: Android Tiers",
-    "steamId": "2974546748",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -468,12 +438,6 @@
     "version": null
   },
   {
-    "author": "Leigh",
-    "name": "Pack Mules Extended - Dinosauria",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
@@ -484,12 +448,6 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0"
-  },
-  {
-    "author": "AlumiRR",
-    "name": "Biotech: Reptilian Humanoids Mod",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oblitus",
@@ -540,12 +498,6 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike and BleuSquid",
-    "name": "Puppeteer",
-    "steamId": "2594873651",
-    "version": "1.6.3.0"
-  },
-  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
     "steamId": null,
@@ -562,18 +514,6 @@
     "name": "Therapy",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Avius and Hazzer",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "1.4.0"
-  },
-  {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.4.3607.2"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -600,12 +540,6 @@
     "version": "1.6.5.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.5.2.0"
-  },
-  {
     "author": "Roolo and Owlchemist",
     "name": "Giddy-Up 2",
     "steamId": "2934245647",
@@ -624,16 +558,16 @@
     "version": null
   },
   {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "民火",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "CodeOptimist",
@@ -657,7 +591,7 @@
     "author": "Aelanna",
     "name": "Weapon Racks",
     "steamId": "2788630748",
-    "version": "1.2.1.0"
+    "version": "1.2.2.0"
   },
   {
     "author": "Uuugggg",
@@ -712,5 +646,23 @@
     "name": "Rimsenal - Security Pack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helldragger",
+    "name": "Save our ship 2 - Heat statistics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
   }
 ]

@@ -674,7 +674,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -8563,12 +8563,6 @@
 		"defname": "PRF_Floorspotlight"
 	},
 	{
-		"abr": "fortifiedartillery",
-		"price": 1175,
-		"category": "Security",
-		"defname": "FT_VFES_Turret_Artillery"
-	},
-	{
 		"abr": "fragmissile",
 		"price": 6,
 		"category": "Missiles",
@@ -11335,342 +11329,6 @@
 		"defname": "Psytrainer_VPE_SummonPack"
 	},
 	{
-		"abr": "advancedarm",
-		"price": 2125,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedArm"
-	},
-	{
-		"abr": "advancedaudiosensor",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedAudioSensor"
-	},
-	{
-		"abr": "advancedbatterypack",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedBattery"
-	},
-	{
-		"abr": "advancedcoolantpump",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedCoolantPump"
-	},
-	{
-		"abr": "advancedheatsink",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedHeatsink"
-	},
-	{
-		"abr": "advancedleg",
-		"price": 2125,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedLeg"
-	},
-	{
-		"abr": "advancedmechanitestorage",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedMechaniteStorage"
-	},
-	{
-		"abr": "advancedreactor",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedReactor"
-	},
-	{
-		"abr": "advancedrepairstim",
-		"price": 100,
-		"category": "Medicine",
-		"defname": "ATR_RepairStimAdvanced"
-	},
-	{
-		"abr": "advancedvisualsensor",
-		"price": 1033,
-		"category": "Mechanical",
-		"defname": "ATR_AdvancedVisualSensor"
-	},
-	{
-		"abr": "agriarm",
-		"price": 683,
-		"category": "Mechanical",
-		"defname": "ATR_AgriArm"
-	},
-	{
-		"abr": "androidchargingstation",
-		"price": 1375,
-		"category": "Misc",
-		"defname": "ATR_ChargingStation"
-	},
-	{
-		"abr": "androidresurrectorkit",
-		"price": 500,
-		"category": "Manufactured",
-		"defname": "ATR_AndroidResurrectorKit"
-	},
-	{
-		"abr": "bedsidecharger",
-		"price": 174,
-		"category": "Misc",
-		"defname": "ATR_BedsideChargerFacility"
-	},
-	{
-		"abr": "chargingpod",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "ATR_ChargingPod"
-	},
-	{
-		"abr": "chemicalcapsule",
-		"price": 8,
-		"category": "Manufactured",
-		"defname": "ATR_ChemCapsule"
-	},
-	{
-		"abr": "chemicalprocessingunit",
-		"price": 833,
-		"category": "Animals",
-		"defname": "ATR_DroneChemUnit"
-	},
-	{
-		"abr": "combatassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_CombatAssistant"
-	},
-	{
-		"abr": "compositeframe",
-		"price": 2000,
-		"category": "Mechanical",
-		"defname": "ATR_CompositePlating"
-	},
-	{
-		"abr": "constructionassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_ConstructionAssistant"
-	},
-	{
-		"abr": "controllerassistant",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_ControllerAssistant"
-	},
-	{
-		"abr": "cultivationassistant",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_CultivationAssistant"
-	},
-	{
-		"abr": "cybertechpartreplacer",
-		"price": 4667,
-		"category": "Mechanical",
-		"defname": "ATR_CybertechReplacementPart"
-	},
-	{
-		"abr": "droneresurrectorkit",
-		"price": 333,
-		"category": "Manufactured",
-		"defname": "ATR_DroneResurrectorKit"
-	},
-	{
-		"abr": "excavationassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_ExcavationAssistant"
-	},
-	{
-		"abr": "fractalpill",
-		"price": 2000,
-		"category": "Drugs",
-		"defname": "ATR_FractalPill"
-	},
-	{
-		"abr": "generalassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_GeneralAssistant"
-	},
-	{
-		"abr": "guardianframe",
-		"price": 1667,
-		"category": "Mechanical",
-		"defname": "ATR_GuardianFrame"
-	},
-	{
-		"abr": "hydraulicframe",
-		"price": 1667,
-		"category": "Mechanical",
-		"defname": "ATR_HydraulicFrame"
-	},
-	{
-		"abr": "insightassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_InsightAssistant"
-	},
-	{
-		"abr": "intermediaterepairstim",
-		"price": 35,
-		"category": "Medicine",
-		"defname": "ATR_RepairStimIntermediate"
-	},
-	{
-		"abr": "mechanicassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_MechanicAssistant"
-	},
-	{
-		"abr": "mechanicbed",
-		"price": 1142,
-		"category": "Furniture",
-		"defname": "ATR_MechanicBed"
-	},
-	{
-		"abr": "mechaniccabinet",
-		"price": 717,
-		"category": "Furniture",
-		"defname": "ATR_MechanicCabinet"
-	},
-	{
-		"abr": "mechanicalassemblycasket",
-		"price": 900,
-		"category": "Production",
-		"defname": "ATR_MechanicalAssemblyPod"
-	},
-	{
-		"abr": "mechanicalpartpack",
-		"price": 50,
-		"category": "Manufactured",
-		"defname": "ATR_PartPack"
-	},
-	{
-		"abr": "mechanicalpartsworkbench",
-		"price": 417,
-		"category": "Production",
-		"defname": "ATR_MechPartWorkbench"
-	},
-	{
-		"abr": "mechaniteantifreeze",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "ATR_MechAntifreeze"
-	},
-	{
-		"abr": "mechaniteswarm",
-		"price": 33,
-		"category": "Drugs",
-		"defname": "ATR_MechSwarm"
-	},
-	{
-		"abr": "medicineassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_MedicineAssistant"
-	},
-	{
-		"abr": "mentalassistant",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_MentalAssistant"
-	},
-	{
-		"abr": "microscyther",
-		"price": 67,
-		"category": "Animals",
-		"defname": "ATR_MicroScyther"
-	},
-	{
-		"abr": "microscythertrap",
-		"price": 592,
-		"category": "Security",
-		"defname": "ATR_TrapIED_Microscyther"
-	},
-	{
-		"abr": "mineralunit",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "ATR_DroneMineralUnit"
-	},
-	{
-		"abr": "miningarm",
-		"price": 683,
-		"category": "Mechanical",
-		"defname": "ATR_MiningArm"
-	},
-	{
-		"abr": "mobilityframe",
-		"price": 1667,
-		"category": "Mechanical",
-		"defname": "ATR_MobilityFrame"
-	},
-	{
-		"abr": "networkedanalyst",
-		"price": 3408,
-		"category": "Misc",
-		"defname": "ATR_NetworkedAnalyst"
-	},
-	{
-		"abr": "networkeddatabase",
-		"price": 1508,
-		"category": "Misc",
-		"defname": "ATR_NetworkedDatabase"
-	},
-	{
-		"abr": "networkedintelligence",
-		"price": 10017,
-		"category": "Misc",
-		"defname": "ATR_NetworkedIntelligence"
-	},
-	{
-		"abr": "nutrientsolution",
-		"price": 4,
-		"category": "Animal products",
-		"defname": "ATR_NutrientSolution"
-	},
-	{
-		"abr": "nutritionblock",
-		"price": 17,
-		"category": "Animal products",
-		"defname": "ATR_NutritionBlock"
-	},
-	{
-		"abr": "nutritionunit",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "ATR_DroneNutritionUnit"
-	},
-	{
-		"abr": "organiccharger",
-		"price": 1367,
-		"category": "Bionic",
-		"defname": "ATR_OrganicCharger"
-	},
-	{
-		"abr": "pacificationarm",
-		"price": 883,
-		"category": "Mechanical",
-		"defname": "ATR_PacificationArm"
-	},
-	{
-		"abr": "plasteelframe",
-		"price": 1667,
-		"category": "Mechanical",
-		"defname": "ATR_PlatingPlasteel"
-	},
-	{
-		"abr": "psychicassistant",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_PsychicAssistant"
-	},
-	{
 		"abr": "psytrainer(thunderbolt)",
 		"price": 1833,
 		"category": "Psytrainers",
@@ -11953,12 +11611,6 @@
 		"defname": "VCE_RawTomatoes"
 	},
 	{
-		"abr": "refinedframe",
-		"price": 1333,
-		"category": "Mechanical",
-		"defname": "ATR_RefinedFrame"
-	},
-	{
 		"abr": "reflactorcarapace",
 		"price": 3350,
 		"category": "Megacorp armors",
@@ -11971,22 +11623,10 @@
 		"defname": "Apparel_ReflactorArmorH"
 	},
 	{
-		"abr": "regenerativepill",
-		"price": 133,
-		"category": "Drugs",
-		"defname": "ATR_RegenerativePill"
-	},
-	{
 		"abr": "relief",
 		"price": 1983,
 		"category": "Art",
 		"defname": "VFE_Relief"
-	},
-	{
-		"abr": "rendingarm",
-		"price": 883,
-		"category": "Mechanical",
-		"defname": "ATR_RendingArm"
 	},
 	{
 		"abr": "repairshelf",
@@ -12235,12 +11875,6 @@
 		"defname": "VCE_Salt"
 	},
 	{
-		"abr": "sanitaryframe",
-		"price": 1333,
-		"category": "Mechanical",
-		"defname": "ATR_SanitaryFrame"
-	},
-	{
 		"abr": "satchelcharge",
 		"price": 1017,
 		"category": "Grenades",
@@ -12253,12 +11887,6 @@
 		"defname": "VWE_SawedOffShotgun"
 	},
 	{
-		"abr": "scalpelarm",
-		"price": 883,
-		"category": "Mechanical",
-		"defname": "ATR_ScalpelArm"
-	},
-	{
 		"abr": "scarecrow",
 		"price": 129,
 		"category": "Misc",
@@ -12269,12 +11897,6 @@
 		"price": 91,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_Scarf"
-	},
-	{
-		"abr": "scorchpack",
-		"price": 170,
-		"category": "Utility",
-		"defname": "ATR_Apparel_ScorchPack"
 	},
 	{
 		"abr": "searchlight",
@@ -12433,12 +12055,6 @@
 		"defname": "VCE_SimpleGrill"
 	},
 	{
-		"abr": "simplerepairstim",
-		"price": 20,
-		"category": "Medicine",
-		"defname": "ATR_RepairStimSimple"
-	},
-	{
 		"abr": "simplesoup",
 		"price": 20,
 		"category": "Meals",
@@ -12485,30 +12101,6 @@
 		"price": 142,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Skirt"
-	},
-	{
-		"abr": "skymindnetworktower",
-		"price": 4892,
-		"category": "Misc",
-		"defname": "ATR_SkyMindNetwork"
-	},
-	{
-		"abr": "skymindreceiver",
-		"price": 833,
-		"category": "Mechanical",
-		"defname": "ATR_SkyMindReceiver"
-	},
-	{
-		"abr": "skymindrelaytower",
-		"price": 1400,
-		"category": "Misc",
-		"defname": "ATR_SkyMindRelay"
-	},
-	{
-		"abr": "skymindtransceiver",
-		"price": 833,
-		"category": "Mechanical",
-		"defname": "ATR_SkyMindTransceiver"
 	},
 	{
 		"abr": "slabbed",
@@ -12637,12 +12229,6 @@
 		"defname": "VCE_SmokeleafButter"
 	},
 	{
-		"abr": "socialassistant",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_SocialAssistant"
-	},
-	{
 		"abr": "soda",
 		"price": 20,
 		"category": "Drugs",
@@ -12695,12 +12281,6 @@
 		"price": 184,
 		"category": "Furniture",
 		"defname": "Light_SpacerLamp"
-	},
-	{
-		"abr": "specializedvoicesynthesizer",
-		"price": 375,
-		"category": "Mechanical",
-		"defname": "ATR_SpecializedVoiceSynthesizer"
 	},
 	{
 		"abr": "speltflour",
@@ -12767,12 +12347,6 @@
 		"price": 139,
 		"category": "Furniture",
 		"defname": "FTC_SandBag2x2c"
-	},
-	{
-		"abr": "stasispill",
-		"price": 33,
-		"category": "Drugs",
-		"defname": "ATR_StasisPill"
 	},
 	{
 		"abr": "steelconstruct",
@@ -12883,22 +12457,10 @@
 		"defname": "JI_Muspell"
 	},
 	{
-		"abr": "suppressorframe",
-		"price": 667,
-		"category": "Mechanical",
-		"defname": "ATR_SuppressorFrame"
-	},
-	{
 		"abr": "surgicalmask",
 		"price": 121,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_SurgicalMask"
-	},
-	{
-		"abr": "swarmshell",
-		"price": 292,
-		"category": "Mortar shells",
-		"defname": "ATR_MicroscytherShell"
 	},
 	{
 		"abr": "swarmer",
@@ -12929,30 +12491,6 @@
 		"price": 11592,
 		"category": "Production",
 		"defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer"
-	},
-	{
-		"abr": "t1android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATR_Tier1Android"
-	},
-	{
-		"abr": "t2android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATR_Tier2Android"
-	},
-	{
-		"abr": "t3android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATR_Tier3Android"
-	},
-	{
-		"abr": "t4android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATR_Tier4Android"
 	},
 	{
 		"abr": "tabard",
@@ -13073,12 +12611,6 @@
 		"price": 1242,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_TorchSword"
-	},
-	{
-		"abr": "tortunit",
-		"price": 500,
-		"category": "Animals",
-		"defname": "ATR_DroneTORT"
 	},
 	{
 		"abr": "trainingdummy",
@@ -13381,12 +12913,6 @@
 		"defname": "YP_BingJu"
 	},
 	{
-		"abr": "victualassistantchip",
-		"price": 1000,
-		"category": "Mechanical",
-		"defname": "ATR_VictualAssistant"
-	},
-	{
 		"abr": "vitalscentre",
 		"price": 1125,
 		"category": "Misc",
@@ -13451,12 +12977,6 @@
 		"price": 250,
 		"category": "Manufactured",
 		"defname": "VFEI_WarriorGenome"
-	},
-	{
-		"abr": "watchdogunit",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "ATR_DroneWatchdog"
 	},
 	{
 		"abr": "waveemmiter",
@@ -16627,12 +16147,6 @@
 		"defname": "VG_FishTrap"
 	},
 	{
-		"abr": "skymindcore",
-		"price": 55017,
-		"category": "Misc",
-		"defname": "ATR_SkyMindCore"
-	},
-	{
 		"abr": "sleepingdecal",
 		"price": 3,
 		"category": "Misc",
@@ -17773,298 +17287,70 @@
 		"defname": "FSFBionicKidney"
 	},
 	{
-		"abr": "bionicliver",
-		"price": 1308,
-		"category": "Bionic",
-		"defname": "FSFBionicLiver"
+		"abr": "advancedarm",
+		"price": 2125,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedArm"
 	},
 	{
-		"abr": "bioniclung",
-		"price": 1383,
-		"category": "Bionic",
-		"defname": "FSFBionicLung"
+		"abr": "advancedaudiosensor",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedAudioSensor"
 	},
 	{
-		"abr": "bionicpowerarm",
-		"price": 2500,
-		"category": "Bionic",
-		"defname": "FSFBionicPowerArm"
+		"abr": "advancedbatterypack",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedBattery"
 	},
 	{
-		"abr": "bionicworkbench",
-		"price": 1667,
-		"category": "Production",
-		"defname": "BionicWorkbench"
+		"abr": "advancedcoolantpump",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedCoolantPump"
 	},
 	{
-		"abr": "climatecontrol",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantTorsoClimateControl"
+		"abr": "advancedheatsink",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedHeatsink"
 	},
 	{
-		"abr": "cortexaugmentor",
-		"price": 7500,
-		"category": "Brain implants",
-		"defname": "Cortexaugmentor"
+		"abr": "advancedleg",
+		"price": 2125,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedLeg"
 	},
 	{
-		"abr": "cqcassistant",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantBrainMeleeCombat"
+		"abr": "advancedmechanitestorage",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedMechaniteStorage"
 	},
 	{
-		"abr": "environmentalfilter",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantTorsoRespirator"
+		"abr": "advancedreactor",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedReactor"
 	},
 	{
-		"abr": "ethologyassistant",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantBrainAnimals"
+		"abr": "advancedrepairstim",
+		"price": 100,
+		"category": "Medicine",
+		"defname": "MHC_RepairStimAdvanced"
 	},
 	{
-		"abr": "exoskeletonsuit",
-		"price": 3500,
-		"category": "Advanced bionics",
-		"defname": "ExoskeletonSuit"
+		"abr": "advancedvisualsensor",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedVisualSensor"
 	},
 	{
-		"abr": "healingmechanites",
-		"price": 3333,
-		"category": "Ultratech",
-		"defname": "FSFImplantMechanitesHealing"
-	},
-	{
-		"abr": "hyporegulator",
-		"price": 7500,
-		"category": "Brain implants",
-		"defname": "Hyporegulator"
-	},
-	{
-		"abr": "immortalitycore",
-		"price": 16667,
-		"category": "Archotech",
-		"defname": "FSFArchotechImplantTorsoImmortal"
-	},
-	{
-		"abr": "massgrave",
-		"price": 8,
-		"category": "Misc",
-		"defname": "MassGrave"
-	},
-	{
-		"abr": "massgrave",
-		"price": 8,
-		"category": "Misc",
-		"defname": "MassGraveAlt"
-	},
-	{
-		"abr": "medicalassistant",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantBrainMedical"
-	},
-	{
-		"abr": "neurostimulator",
-		"price": 7500,
-		"category": "Brain implants",
-		"defname": "Neurostimulator"
-	},
-	{
-		"abr": "positronicbrain",
-		"price": 7050,
-		"category": "Ultratech",
-		"defname": "FSFAdvBionicBrain"
-	},
-	{
-		"abr": "powerarm",
-		"price": 3517,
-		"category": "Bionics",
-		"defname": "PowerArm"
-	},
-	{
-		"abr": "prostheticeye",
-		"price": 367,
-		"category": "Prosthetic",
-		"defname": "FSFProstheticEye"
-	},
-	{
-		"abr": "prostheticfoot",
-		"price": 228,
-		"category": "Prosthetic",
-		"defname": "FSFProstheticFoot"
-	},
-	{
-		"abr": "prosthetichand",
-		"price": 228,
-		"category": "Prosthetic",
-		"defname": "FSFProstheticHand"
-	},
-	{
-		"abr": "prosthetickidney",
-		"price": 367,
-		"category": "Prosthetic",
-		"defname": "FSFSimpleProstheticKidney"
-	},
-	{
-		"abr": "prostheticliver",
-		"price": 367,
-		"category": "Prosthetic",
-		"defname": "FSFSimpleProstheticLiver"
-	},
-	{
-		"abr": "prostheticlung",
-		"price": 383,
-		"category": "Prosthetic",
-		"defname": "FSFSimpleProstheticLung"
-	},
-	{
-		"abr": "prostheticspine",
-		"price": 400,
-		"category": "Prosthetic",
-		"defname": "FSFProstheticSpine"
-	},
-	{
-		"abr": "prostheticstomach",
-		"price": 367,
-		"category": "Prosthetic",
-		"defname": "FSFSimpleProstheticStomach"
-	},
-	{
-		"abr": "psychicheatsink",
-		"price": 1667,
-		"category": "Archotech",
-		"defname": "FSFArchotechPsychicHeatsink"
-	},
-	{
-		"abr": "psychic-enhancingmechanites",
-		"price": 3333,
-		"category": "Ultratech",
-		"defname": "FSFImplantMechanitesPsychic"
-	},
-	{
-		"abr": "recreationmodule",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantBrainRecreation"
-	},
-	{
-		"abr": "resurrectioncore",
-		"price": 4167,
-		"category": "Ultratech",
-		"defname": "FSFImplantTorsoResurrect"
-	},
-	{
-		"abr": "sense-enhancingmechanites",
-		"price": 3333,
-		"category": "Ultratech",
-		"defname": "FSFImplantMechanitesSensory"
-	},
-	{
-		"abr": "simpleprostheticfoot",
-		"price": 467,
-		"category": "Simple prostheses",
-		"defname": "SimpleProstheticFoot"
-	},
-	{
-		"abr": "simpleprosthetichand",
-		"price": 467,
-		"category": "Simple prostheses",
-		"defname": "SimpleProstheticHand"
-	},
-	{
-		"abr": "speed-enhancingmechanites",
-		"price": 3333,
-		"category": "Ultratech",
-		"defname": "FSFImplantMechanitesSpeed"
-	},
-	{
-		"abr": "stomach",
-		"price": 667,
-		"category": "Natural",
-		"defname": "Stomach"
-	},
-	{
-		"abr": "strength-enhancingmechanites",
-		"price": 3333,
-		"category": "Ultratech",
-		"defname": "FSFImplantMechanitesStrength"
-	},
-	{
-		"abr": "syntheticheart",
-		"price": 2042,
-		"category": "Synthetic organs",
-		"defname": "SyntheticHeart"
-	},
-	{
-		"abr": "synthetickidney",
-		"price": 2042,
-		"category": "Synthetic organs",
-		"defname": "SyntheticKidney"
-	},
-	{
-		"abr": "syntheticliver",
-		"price": 2042,
-		"category": "Synthetic organs",
-		"defname": "SyntheticLiver"
-	},
-	{
-		"abr": "syntheticlung",
-		"price": 2042,
-		"category": "Synthetic organs",
-		"defname": "SyntheticLung"
-	},
-	{
-		"abr": "syntheticskingland",
-		"price": 6083,
-		"category": "Archotech",
-		"defname": "FSFArchotechSkinI"
-	},
-	{
-		"abr": "syntheticstomach",
-		"price": 1858,
-		"category": "Synthetic organs",
-		"defname": "SyntheticStomach"
-	},
-	{
-		"abr": "targetingassistant",
-		"price": 1717,
-		"category": "Ultratech",
-		"defname": "FSFImplantBrainRangedCombat"
-	},
-	{
-		"abr": "techprint(advancedbionics)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_FSFAdvancedBionics"
-	},
-	{
-		"abr": "techprint(advancedspecializedlimbs)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_FSFAdvancedSpecializedLimbs"
-	},
-	{
-		"abr": "techprint(combatimplants)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_FSFResearchCombatImplants"
-	},
-	{
-		"abr": "techprint(environmentalimplants)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_FSFResearchEnvironmentalImplants"
-	},
-	{
-		"abr": "techprint(mechaniteserums)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_FSFResearchImplantsMechanites"
+		"abr": "agriarm",
+		"price": 683,
+		"category": "Mechanical",
+		"defname": "ATR_AgriArm"
 	},
 	{
 		"abr": "amphibianskin",
@@ -18073,10 +17359,10 @@
 		"defname": "BMT_Leather_Amphibian"
 	},
 	{
-		"abr": "flame-proofleather",
-		"price": 12,
-		"category": "Leathers",
-		"defname": "BMT_Leather_Magma"
+		"abr": "androidresurrectorkit",
+		"price": 500,
+		"category": "Manufactured",
+		"defname": "ATR_AndroidResurrectorKit"
 	},
 	{
 		"abr": "animalclothes",
@@ -18127,6 +17413,210 @@
 		"defname": "Apparel_SmallAnimalPowerArmorHelmet"
 	},
 	{
+		"abr": "bedsidecharger",
+		"price": 174,
+		"category": "Misc",
+		"defname": "MHC_BedsideChargerFacility"
+	},
+	{
+		"abr": "bionicliver",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "FSFBionicLiver"
+	},
+	{
+		"abr": "bioniclung",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "FSFBionicLung"
+	},
+	{
+		"abr": "bionicpowerarm",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "FSFBionicPowerArm"
+	},
+	{
+		"abr": "bionicworkbench",
+		"price": 1667,
+		"category": "Production",
+		"defname": "BionicWorkbench"
+	},
+	{
+		"abr": "chargingpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "MHC_ChargingPod"
+	},
+	{
+		"abr": "chargingstation",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "MHC_ChargingStation"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "ATB_ChemCapsule"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 833,
+		"category": "Animals",
+		"defname": "ATB_DroneChemUnit"
+	},
+	{
+		"abr": "climatecontrol",
+		"price": 1717,
+		"category": "Ultratech",
+		"defname": "FSFImplantTorsoClimateControl"
+	},
+	{
+		"abr": "combatassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_CombatAssistant"
+	},
+	{
+		"abr": "compositeframe",
+		"price": 2000,
+		"category": "Mechanical",
+		"defname": "ATR_CompositePlating"
+	},
+	{
+		"abr": "constructionassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_ConstructionAssistant"
+	},
+	{
+		"abr": "coolantpack",
+		"price": 5,
+		"category": "Drugs",
+		"defname": "MHC_CoolantPack"
+	},
+	{
+		"abr": "cortexaugmentor",
+		"price": 7500,
+		"category": "Brain implants",
+		"defname": "Cortexaugmentor"
+	},
+	{
+		"abr": "cqcassistant",
+		"price": 1717,
+		"category": "Ultratech",
+		"defname": "FSFImplantBrainMeleeCombat"
+	},
+	{
+		"abr": "cultivationassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_CultivationAssistant"
+	},
+	{
+		"abr": "cybertechpartreplacer",
+		"price": 4667,
+		"category": "Mechanical",
+		"defname": "ATR_CybertechReplacementPart"
+	},
+	{
+		"abr": "droneresurrectorkit",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "ATR_DroneResurrectorKit"
+	},
+	{
+		"abr": "environmentalfilter",
+		"price": 1717,
+		"category": "Ultratech",
+		"defname": "FSFImplantTorsoRespirator"
+	},
+	{
+		"abr": "ethologyassistant",
+		"price": 1717,
+		"category": "Ultratech",
+		"defname": "FSFImplantBrainAnimals"
+	},
+	{
+		"abr": "excavationassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_ExcavationAssistant"
+	},
+	{
+		"abr": "exoskeletonsuit",
+		"price": 3500,
+		"category": "Advanced bionics",
+		"defname": "ExoskeletonSuit"
+	},
+	{
+		"abr": "flame-proofleather",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "BMT_Leather_Magma"
+	},
+	{
+		"abr": "gastropodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "BMT_GastropodMeat"
+	},
+	{
+		"abr": "generalassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_GeneralAssistant"
+	},
+	{
+		"abr": "guardianframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_GuardianFrame"
+	},
+	{
+		"abr": "headhuntercannon",
+		"price": 6667,
+		"category": "Ranged weapons",
+		"defname": "ATM_HeadhunterCannon"
+	},
+	{
+		"abr": "healingmechanites",
+		"price": 3333,
+		"category": "Ultratech",
+		"defname": "FSFImplantMechanitesHealing"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_HydraulicFrame"
+	},
+	{
+		"abr": "hyporegulator",
+		"price": 7500,
+		"category": "Brain implants",
+		"defname": "Hyporegulator"
+	},
+	{
+		"abr": "immortalitycore",
+		"price": 16667,
+		"category": "Archotech",
+		"defname": "FSFArchotechImplantTorsoImmortal"
+	},
+	{
+		"abr": "insightassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_InsightAssistant"
+	},
+	{
+		"abr": "intermediaterepairstim",
+		"price": 35,
+		"category": "Medicine",
+		"defname": "MHC_RepairStimIntermediate"
+	},
+	{
 		"abr": "largeanimalclothes",
 		"price": 292,
 		"category": "Animal Apparel",
@@ -18175,83 +17665,215 @@
 		"defname": "Apparel_LargeAnimalPowerArmorHelmet"
 	},
 	{
-		"abr": "ridinggear",
-		"price": 322,
-		"category": "Animal Apparel",
-		"defname": "Apparel_bridle"
+		"abr": "lubricantpack",
+		"price": 5,
+		"category": "Drugs",
+		"defname": "MHC_LubricationPack"
 	},
 	{
-		"abr": "universalanimalclothes",
-		"price": 166,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalClothes"
+		"abr": "m1warrior",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "ATM_Mark1Warrior"
 	},
 	{
-		"abr": "universalanimalflakarmor",
-		"price": 483,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalFlakArmor"
+		"abr": "m2bishop",
+		"price": 2167,
+		"category": "Animal",
+		"defname": "ATM_Mark2Bishop"
 	},
 	{
-		"abr": "universalanimalflakhelmet",
-		"price": 442,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalAdvancedHelmet"
+		"abr": "m3paladin",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "ATM_Mark3Paladin"
 	},
 	{
-		"abr": "universalanimalplatearmor",
-		"price": 792,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalPlateArmor"
+		"abr": "m4jellyman",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "ATM_Mark4Jellyman"
 	},
 	{
-		"abr": "universalanimalplatehelmet",
-		"price": 153,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalPlateHelmet"
+		"abr": "m5titan",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "ATM_Mark5Titan"
 	},
 	{
-		"abr": "universalanimalpowerarmor",
-		"price": 3392,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalPowerArmor"
+		"abr": "mark5deploymenttargeter",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "ATM_OrbitalTargeterMechFall"
 	},
 	{
-		"abr": "universalanimalpowerhelmet",
-		"price": 1058,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalPowerArmorHelmet"
+		"abr": "mechpod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATM_ChargingPodMech"
 	},
 	{
-		"abr": "universalpetscarf",
-		"price": 83,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalScarf"
+		"abr": "mechpoleaxe",
+		"price": 6667,
+		"category": "Mech weapons",
+		"defname": "ATM_MechPoleaxe"
 	},
 	{
-		"abr": "universalridinggear",
-		"price": 322,
-		"category": "Animal Apparel",
-		"defname": "Apparel_AnimalReins"
+		"abr": "mechanicassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_MechanicAssistant"
 	},
 	{
-		"abr": "stubbylever-actionrifle",
-		"price": 400,
-		"category": "Rifles",
-		"defname": "Gun_StubbyLeverActionRifle"
+		"abr": "mechanicbed",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "MHC_MechanicBed"
 	},
 	{
-		"abr": "gastropodmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "BMT_GastropodMeat"
+		"abr": "mechaniccabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "MHC_MechanicCabinet"
 	},
 	{
-		"abr": "toughleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "BMT_ToughLeather"
-	}
+		"abr": "mechanicalassemblycasket",
+		"price": 900,
+		"category": "Production",
+		"defname": "ATR_MechanicalAssemblyPod"
+	},
+	{
+		"abr": "mechanicalpartpack",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "MHC_PartPack"
+	},
+	{
+		"abr": "mechanicalpartsworkbench",
+		"price": 417,
+		"category": "Production",
+		"defname": "ATR_MechPartWorkbench"
+	},
+	{
+		"abr": "mechaniteantifreeze",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "ATR_MechAntifreeze"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "ATR_MechSwarm"
+	},
+	{
+		"abr": "medicalassistant",
+		"price": 1717,
+		"category": "Ultratech",
+		"defname": "FSFImplantBrainMedical"
+	},
+	{
+		"abr": "hydrant",
+		"price": 300,
+		"category": "Misc",
+		"defname": "FT_FirefoamPopper"
+	},
+	{
+		"abr": "atgunbunker",
+		"price": 2767,
+		"category": "Misc",
+		"defname": "FTC_Wall_AT"
+	},
+	{
+		"abr": "autocannonbunker",
+		"price": 1300,
+		"category": "Misc",
+		"defname": "FTC_Autocannon_Bunker"
+	},
+	{
+		"abr": "distributionbox",
+		"price": 205,
+		"category": "Misc",
+		"defname": "FT_DistributionBox"
+	},
+	{
+		"abr": "flamethrowerbunker",
+		"price": 975,
+		"category": "Misc",
+		"defname": "FTC_Wall_Flame"
+	},
+	{
+		"abr": "howitzerbunker",
+		"price": 3983,
+		"category": "Misc",
+		"defname": "FTC_Wall_Howitzer"
+	},
+	{
+		"abr": "machinegunbunker(1)",
+		"price": 1000,
+		"category": "Misc",
+		"defname": "FTC_Wall_MG"
+	},
+	{
+		"abr": "massgrave",
+		"price": 8,
+		"category": "Misc",
+		"defname": "MassGrave"
+	},
+	{
+		"abr": "massgrave",
+		"price": 8,
+		"category": "Misc",
+		"defname": "MassGraveAlt"
+	},
+	{
+		"abr": "medicineassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_MedicineAssistant"
+	},
+	{
+		"abr": "mentalassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_MentalAssistant"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animals",
+		"defname": "ATB_MicroScyther"
+	},
+	{
+		"abr": "microscythertrap",
+		"price": 592,
+		"category": "Security",
+		"defname": "ATB_TrapIED_Microscyther"
+	},
+	{
+		"abr": "mineralunit",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "ATB_DroneMineralUnit"
+	},
+	{
+		"abr": "miningarm",
+		"price": 683,
+		"category": "Mechanical",
+		"defname": "ATR_MiningArm"
+	},
+	{
+		"abr": "mobilityframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_MobilityFrame"
+	},
+	{
+		"abr": "mortarbunker",
+		"price": 2450,
+		"category": "Misc",
+		"defname": "FTC_Mortar_Bunker"
+	},
 	],
-	"total": 3042
+	"total": 3053
 }

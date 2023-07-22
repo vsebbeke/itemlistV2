@@ -55,7 +55,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others or starts fights, and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "abrasive",
         "psychopath"
@@ -66,7 +68,9 @@
           "abrasive",
           "psychopath"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -135,12 +139,16 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3203,94 +3211,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
@@ -3511,8 +3431,7 @@
           "+50.0% Armor - Sharp",
           "+100% Maintenance retention efficiency",
           "+120% Nutrition intake efficiency",
-          "+120% Charging speed",
-          "+100% Maximum mechanical need capacity"
+          "+120% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3549,8 +3468,7 @@
           "+90% Incoming damage multiplier",
           "+125% Maintenance retention efficiency",
           "+120% Nutrition intake efficiency",
-          "+130% Charging speed",
-          "+200% Maximum mechanical need capacity"
+          "+130% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3588,7 +3506,6 @@
           "+175% Maintenance retention efficiency",
           "+120% Nutrition intake efficiency",
           "+150% Charging speed",
-          "+500% Maximum mechanical need capacity",
           "+50% Aiming time"
         ],
         "mod": "Unknown",
@@ -3661,8 +3578,7 @@
           "+40% Global learning factor",
           "+100% Maintenance retention efficiency",
           "+120% Nutrition intake efficiency",
-          "+150% Charging speed",
-          "+4000% Maximum mechanical need capacity"
+          "+150% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3698,8 +3614,7 @@
           "+15.0% Armor - Sharp",
           "+75% Maintenance retention efficiency",
           "+90% Nutrition intake efficiency",
-          "+90% Charging speed",
-          "+50% Maximum mechanical need capacity"
+          "+90% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3734,8 +3649,7 @@
           "+25.0% Armor - Sharp",
           "+100% Maintenance retention efficiency",
           "+50% Nutrition intake efficiency",
-          "+100% Charging speed",
-          "+100% Maximum mechanical need capacity"
+          "+100% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3771,8 +3685,7 @@
           "+50.0% Armor - Sharp",
           "+140% Maintenance retention efficiency",
           "+25% Nutrition intake efficiency",
-          "+150% Charging speed",
-          "+300% Maximum mechanical need capacity"
+          "+150% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3808,8 +3721,7 @@
           "+50.0% Armor - Sharp",
           "+180% Maintenance retention efficiency",
           "+25% Nutrition intake efficiency",
-          "+200% Charging speed",
-          "+350% Maximum mechanical need capacity"
+          "+200% Charging speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3819,6 +3731,55 @@
       "enabled": false,
       "name": "T4 Android",
       "price": 6667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-60.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic resistance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": true,
+      "name": "Zombie",
+      "price": 1
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
     }
   ]
 }
