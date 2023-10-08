@@ -3030,6 +3030,474 @@
 		"category": "Other",
 		"defname": "VHE_TableBarber"
 	},
+	{
+		"abr": "",
+		"price": 367,
+		"category": "Set-top box",
+		"defname": "FSFProstheticEye"
+	},
+	{
+		"abr": "asmallfictionalliver",
+		"price": 367,
+		"category": "Set-top box",
+		"defname": "FSFSimpleProstheticLiver"
+	},
+	{
+		"abr": "addictionassistant",
+		"price": 1717,
+		"category": "Ultrasound",
+		"defname": "FSFImplantBrainAddiction"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 3050,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicArm"
+	},
+	{
+		"abr": "advancedbionicbreachingarm",
+		"price": 4608,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicBreachArm"
+	},
+	{
+		"abr": "advancedbionicconstructionarm",
+		"price": 5058,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicConstructionArm"
+	},
+	{
+		"abr": "advancedbionicdrillarm",
+		"price": 5058,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicDrillArm"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": 2308,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicEar"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 2975,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicEye"
+	},
+	{
+		"abr": "advancedbionicfieldarm",
+		"price": 5058,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicFieldArm"
+	},
+	{
+		"abr": "advancedbionicheart",
+		"price": 2383,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicHeart"
+	},
+	{
+		"abr": "advancedbionicjaw",
+		"price": 2308,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicJaw"
+	},
+	{
+		"abr": "advancedbionickidney",
+		"price": 1642,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicKidney"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 3050,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicLeg"
+	},
+	{
+		"abr": "advancedbionicliver",
+		"price": 2308,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicLiver"
+	},
+	{
+		"abr": "advancedbioniclung",
+		"price": 2383,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicLung"
+	},
+	{
+		"abr": "advancedbionicmedicarm",
+		"price": 5158,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicMedicArm"
+	},
+	{
+		"abr": "advancedbionicpowerarm",
+		"price": 4608,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicPowerArm"
+	},
+	{
+		"abr": "advancedbionicshockerarm",
+		"price": 4608,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicTaserArm"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 3050,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicSpine"
+	},
+	{
+		"abr": "advancedbionicstomach",
+		"price": 2308,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicStomach"
+	},
+	{
+		"abr": "advancedholodeck",
+		"price": 3275,
+		"category": "Exemption",
+		"defname": "Holodeck_Standard"
+	},
+	{
+		"abr": "advancedshockerjaw",
+		"price": 3458,
+		"category": "Ultrasound",
+		"defname": "FSFAdvBionicTaserJaw"
+	},
+	{
+		"abr": "afterlifecasket",
+		"price": 3575,
+		"category": "Buildings",
+		"defname": "Ship_AvatarCasket"
+	},
+	{
+		"abr": "agriculturalassistant",
+		"price": 1717,
+		"category": "Ultrasound",
+		"defname": "FSFImplantBrainPlants"
+	},
+	{
+		"abr": "airwireheadset",
+		"price": 383,
+		"category": "Head-gear",
+		"defname": "Apparel_AirwireHeadset"
+	},
+	{
+		"abr": "amphibianskin",
+		"price": 7,
+		"category": "Shoe",
+		"defname": "BMT_Leather_Amphibian"
+	},
+	{
+		"abr": "ancientrenaltechnology",
+		"price": 4300,
+		"category": "Arkhotyekh",
+		"defname": "FSFArchotechKidney"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "architecapsule",
+		"price": 1167,
+		"category": "Misc",
+		"defname": "ArchiteCapsule"
+	},
+	{
+		"abr": "archocat",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "archoffalo",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "archojerboa",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "archolifepod",
+		"price": 1667,
+		"category": "Arts",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "archolope",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "archomutt",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "archopanda",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "archospider",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "archostrich",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "archostrichegg(fert.)",
+		"price": 167,
+		"category": "Eggs (respectively)",
+		"defname": "EggArchostrichFertilized"
+	},
+	{
+		"abr": "archostrichegg(unfert.)",
+		"price": 38,
+		"category": "Eggs (unbefr)",
+		"defname": "EggArchostrichUnfertilized"
+	},
+	{
+		"abr": "archotechear",
+		"price": 2000,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 2000,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 2000,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 2000,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechmedicarm",
+		"price": 10000,
+		"category": "Arkhotyekh",
+		"defname": "FSFArchotechMedicArm"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 2000,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16783,
+		"category": "Other",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16783,
+		"category": "Other",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16783,
+		"category": "Other",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16783,
+		"category": "Other",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "archotechpowerarm",
+		"price": 8900,
+		"category": "Arkhotyekh",
+		"defname": "FSFArchotechPowerArm"
+	},
+	{
+		"abr": "archotechpowercore",
+		"price": 6300,
+		"category": "Arkhotyekh",
+		"defname": "FSFArchotechPowerCore"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Arkhotyekh",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 8542,
+		"category": "Other",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "archothrumbo",
+		"price": 16667,
+		"category": "Animals",
+		"defname": "Archothrumbo"
+	},
+	{
+		"abr": "archotortoise",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archotortoise"
+	},
+	{
+		"abr": "archotortoiseegg(fert.)",
+		"price": 38,
+		"category": "Eggs (respectively)",
+		"defname": "EggArchotortoiseFertilized"
+	},
+	{
+		"abr": "armstrength",
+		"price": 2517,
+		"category": "Office",
+		"defname": "FSFBionicPowerArm"
+	},
+	{
+		"abr": "armor-enhancingmechanites",
+		"price": 3333,
+		"category": "Ultrasound",
+		"defname": "FSFImplantMechanitesArmor"
+	},
+	{
+		"abr": "arrayheadset",
+		"price": 600,
+		"category": "Head-gear",
+		"defname": "Apparel_ArrayHeadset"
+	},
+	{
+		"abr": "artificialjaw",
+		"price": 1308,
+		"category": "Office",
+		"defname": "FSFBionicJaw"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 313,
+		"category": "Set-top box",
+		"defname": "FSFArtificialNose"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "aurumfuel",
+		"price": 8,
+		"category": "The food",
+		"defname": "BTEMy_AurumFuel"
+	},
+	{
+		"abr": "aurumidol",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BTEMy_AurumIdol"
+	},
+	{
+		"abr": "babydecoration",
+		"price": 205,
+		"category": "Furniture",
+		"defname": "BabyDecoration"
+	},
+	{
+		"abr": "babyfood",
+		"price": 2,
+		"category": "The food",
+		"defname": "BabyFood"
+	},
+	{
+		"abr": "balloondogtaredition",
+		"price": 326,
+		"category": "Bombings",
+		"defname": "Clown_DogTar"
+	},
+	{
+		"abr": "balloonsword",
+		"price": 642,
+		"category": "Military",
+		"defname": "Clown_BalloonSword"
+	},
+	{
+		"abr": "bandwidthpack",
+		"price": 2275,
+		"category": "Utility",
+		"defname": "Apparel_PackBandwidth"
+	},
+	{
+		"abr": "basicholodeck",
+		"price": 1792,
+		"category": "Exemption",
+		"defname": "Holodeck_Basic"
+	},
+	{
+		"abr": "basicsubcore",
+		"price": 333,
+		"category": "Ready",
+		"defname": "SubcoreBasic"
+	},
+	{
+		"abr": "beadsareanoldtechnology",
+		"price": 4300,
+		"category": "Arkhotyekh",
+		"defname": "FSFArchotechJaw"
+	}
 	],
-	"total": 743
+	"total": 821
 }
