@@ -1729,7 +1729,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -1746,7 +1748,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2179,7 +2183,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2188,7 +2194,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2205,7 +2213,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2214,7 +2224,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2231,7 +2243,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2240,7 +2254,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2457,7 +2473,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2470,7 +2488,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2487,7 +2507,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2498,7 +2520,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2748,7 +2772,7 @@
       "addPrice": 2000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -2842,10 +2866,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -2919,7 +2947,9 @@
       "removePrice": 3000,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -2928,7 +2958,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2980,10 +3012,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -3323,7 +3359,7 @@
       },
       "description": "A zombie",
       "defName": "Zombie",
-      "enabled": true,
+      "enabled": false,
       "name": "Zombie",
       "price": 1
     }

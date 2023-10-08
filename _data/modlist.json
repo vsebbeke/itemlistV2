@@ -48,10 +48,16 @@
     "version": "1.0.3.2"
   },
   {
+    "author": "Уверен?",
+    "name": "Hemogen Extractor",
+    "steamId": "2903919607",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
+    "version": "6.3.0.1"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -165,7 +171,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.6.0"
+    "version": "1.12.7.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -351,7 +357,7 @@
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.1"
+    "version": "1.4.1.0"
   },
   {
     "author": "Murmur",
@@ -369,7 +375,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.5.0"
+    "version": "1.6.6.0"
   },
   {
     "author": "Roolo and Owlchemist",
@@ -405,13 +411,13 @@
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "4.0.3.3352"
+    "version": "4.0.4.466"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.5.2.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "Janson",
@@ -483,12 +489,24 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "4.2.4.0"
+    "version": "4.3.6.0"
   },
   {
     "author": "Oskar Potocki, Kikohi and Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Satellite",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
   }
 ]
