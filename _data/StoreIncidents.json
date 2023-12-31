@@ -21,6 +21,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -126,6 +131,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -207,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -263,6 +273,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -362,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 2000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -421,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 87
 }
