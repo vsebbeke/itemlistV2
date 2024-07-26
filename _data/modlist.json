@@ -6,14 +6,110 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
+  },
+  {
+    "author": "AlumiRR",
+    "name": "Biotech: Reptilian Humanoids 1.5",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.6.2.0"
+  },
+  {
+    "author": "Allie, Erin and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
     "steamId": null,
     "version": null
   },
@@ -24,16 +120,28 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Maruf61",
+    "name": "ResearchPal - Forkd",
+    "steamId": "3263594757",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.4.1.0"
-  },
-  {
-    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
   },
   {
     "author": "Uuugggg",
@@ -60,6 +168,30 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.10.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -68,6 +200,102 @@
   {
     "author": "dhultgren",
     "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Weapon Racks",
+    "steamId": "2788630748",
+    "version": "1.3.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Weapons Sorter",
+    "steamId": "2290406586",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Janson",
+    "name": "Weapon Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Leigh",
+    "name": "Pack Mules Extended - Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Just Ignore Me Passing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ARCA-RUS",
+    "name": "Humvee",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "Spdskatr and CaesarV6",
+    "name": "Damage Indicators [1.5]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Darth_Sergeant",
+    "name": "Centipede Raid Value",
     "steamId": null,
     "version": null
   }
