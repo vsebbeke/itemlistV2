@@ -5259,7 +5259,7 @@
 	{
 		"abr": "eltexcape",
 		"price": 1333,
-		"category": "Apparel",
+		"category": "Misc",
 		"defname": "VPE_Apparel_EltexCape"
 	},
 	{
@@ -9629,7 +9629,829 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "advancedbionicchefarm",
+		"price": 5083,
+		"category": "Ultratech",
+		"defname": "FSFAdvBionicCookingArm"
+	},
+	{
+		"abr": "archotechendogenefier",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoEndogenefier"
+	},
+	{
+		"abr": "archotechgeneremover",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoGeneRemover"
+	},
+	{
+		"abr": "archotechxenogenefier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_ArchoXenogenefier"
+	},
+	{
+		"abr": "bionicchefarm",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "FSFBionicCookingArm"
+	},
+	{
+		"abr": "bionicproductionarm",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "FSFBionicCraftingArm"
+	},
+	{
+		"abr": "crystalcarapace",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "BMT_CrystalChitin"
+	},
+	{
+		"abr": "darkglowpod",
+		"price": 83,
+		"category": "Special",
+		"defname": "AA_DarkGlowPod"
+	},
+	{
+		"abr": "deepchitin",
+		"price": 14,
+		"category": "Leathers",
+		"defname": "BMT_DeepChitin"
+	},
+	{
+		"abr": "fishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "BMT_FishMeatCore"
+	},
+	{
+		"abr": "fishskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "BMT_Fishskin"
+	},
+	{
+		"abr": "forsakenarmor",
+		"price": 5858,
+		"category": "Armor",
+		"defname": "AG_ForsakenMarineArmor"
+	},
+	{
+		"abr": "forsakenassaultrifle",
+		"price": 3175,
+		"category": "Weapons",
+		"defname": "AG_ForsakenAssaultRifle"
+	},
+	{
+		"abr": "forsakenbattleaxe",
+		"price": 2033,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBattleAxe"
+	},
+	{
+		"abr": "forsakenblackhydra",
+		"price": 1917,
+		"category": "Weapons",
+		"defname": "AG_ForsakenHydra"
+	},
+	{
+		"abr": "forsakenbow",
+		"price": 209,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBow"
+	},
+	{
+		"abr": "forsakenbulksword",
+		"price": 933,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBulkSword"
+	},
+	{
+		"abr": "forsakencloak",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "AG_ForsakenCloak"
+	},
+	{
+		"abr": "forsakenforge",
+		"price": 358,
+		"category": "Production",
+		"defname": "AG_ForsakenForge"
+	},
+	{
+		"abr": "forsakenhelmet",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "AG_ForsakenMarineHelmet"
+	},
+	{
+		"abr": "forsakenhood",
+		"price": 517,
+		"category": "Headgear",
+		"defname": "AG_Forsaken_Hood"
+	},
+	{
+		"abr": "forsakenkidcloak",
+		"price": 708,
+		"category": "Misc",
+		"defname": "AG_ForsakenCloak_Child"
+	},
+	{
+		"abr": "forsakenkidhood",
+		"price": 286,
+		"category": "Headgear",
+		"defname": "AG_Forsaken_Hood_Child"
+	},
+	{
+		"abr": "forsakenlongblade",
+		"price": 1700,
+		"category": "Weapons",
+		"defname": "AG_ForsakenLongBlade"
+	},
+	{
+		"abr": "forsakenpsycasterhelmet",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "AG_ForsakenMarineHelmetPsy"
+	},
+	{
+		"abr": "forsakenshotgun",
+		"price": 2958,
+		"category": "Weapons",
+		"defname": "AG_ForsakenShotgun"
+	},
+	{
+		"abr": "forsakensniperrifle",
+		"price": 2892,
+		"category": "Weapons",
+		"defname": "AG_ForsakenSniper"
+	},
+	{
+		"abr": "forsakenspear",
+		"price": 358,
+		"category": "Weapons",
+		"defname": "AG_ForsakenSpear"
+	},
+	{
+		"abr": "fragilechitin",
+		"price": 2,
+		"category": "Leathers",
+		"defname": "BMT_FragileChitin"
+	},
+	{
+		"abr": "hermeticarmor",
+		"price": 2025,
+		"category": "Armor",
+		"defname": "BMT_HermeticArmor"
+	},
+	{
+		"abr": "hermetichelmet",
+		"price": 1025,
+		"category": "Headgear",
+		"defname": "BMT_HermeticHelmet"
+	},
+	{
+		"abr": "pinnipedskin",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "BMT_Pinnipedskin"
+	},
+	{
+		"abr": "royalchitin",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "BMT_RoyalChitin"
+	},
+	{
+		"abr": "toughchitin",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "BMT_MediumChitin"
+	},
+	{
+		"abr": "ultimafabric",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "AG_Ultima"
+	},
+	{
+		"abr": "acidassaultrifle",
+		"price": 1500,
+		"category": "Anty weapons",
+		"defname": "AT_AcidAssaultRifle"
+	},
+	{
+		"abr": "acidcrossbow",
+		"price": 176,
+		"category": "Anty weapons",
+		"defname": "AT_AcidCross"
+	},
+	{
+		"abr": "acidlauncher",
+		"price": 1792,
+		"category": "Anty weapons",
+		"defname": "AT_AcidLauncher"
+	},
+	{
+		"abr": "acidlightmachinegun",
+		"price": 1767,
+		"category": "Anty weapons",
+		"defname": "AT_LMG"
+	},
+	{
+		"abr": "acidlinerifle",
+		"price": 1500,
+		"category": "Anty weapons",
+		"defname": "AT_AcidLineRifle"
+	},
+	{
+		"abr": "acidrifle",
+		"price": 817,
+		"category": "Anty weapons",
+		"defname": "AT_AcidRifle"
+	},
+	{
+		"abr": "activatedrefleum",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "ActivatedRefleum"
+	},
+	{
+		"abr": "anty",
+		"price": 1367,
+		"category": "Animal",
+		"defname": "Anty"
+	},
+	{
+		"abr": "antyadditionalarmorplate",
+		"price": 392,
+		"category": "Anty gear",
+		"defname": "AT_AP_Additionalarmorplate_A"
+	},
+	{
+		"abr": "antyadditionalchainarmor",
+		"price": 254,
+		"category": "Anty gear",
+		"defname": "AT_AP_Additionalchain_A"
+	},
+	{
+		"abr": "antyanoplolepisegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "EggAnty_Anoplolepis_gracilipes"
+	},
+	{
+		"abr": "antyassaultpheromone",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "Antypheromone_Charge_Fix"
+	},
+	{
+		"abr": "antybulletproofcommenderhelmet",
+		"price": 321,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Head_B"
+	},
+	{
+		"abr": "antybulletproofhelmet",
+		"price": 321,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Head_A"
+	},
+	{
+		"abr": "antybutcher-chart",
+		"price": 467,
+		"category": "Misc",
+		"defname": "AT_Chart"
+	},
+	{
+		"abr": "antycapecoat",
+		"price": 392,
+		"category": "Anty Apparel",
+		"defname": "AT_AP_St_C"
+	},
+	{
+		"abr": "antycapeshirt",
+		"price": 237,
+		"category": "Anty Apparel",
+		"defname": "AT_AP_St_B"
+	},
+	{
+		"abr": "antycataglyphisadditionalarmor",
+		"price": 2725,
+		"category": "Anty gear",
+		"defname": "AT_AP_AdditionalPower_A"
+	},
+	{
+		"abr": "antycataglyphisarmor",
+		"price": 4217,
+		"category": "Anty gear",
+		"defname": "AT_AP_Power_A"
+	},
+	{
+		"abr": "antycataglyphiscommenderadditionalarmor",
+		"price": 2725,
+		"category": "Anty gear",
+		"defname": "AT_AP_AdditionalPower_B"
+	},
+	{
+		"abr": "antycataglyphiscommenderarmor",
+		"price": 4217,
+		"category": "Anty gear",
+		"defname": "AT_AP_Power_B"
+	},
+	{
+		"abr": "antycataglyphiscommenderhelmet",
+		"price": 2125,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Power_Head_B"
+	},
+	{
+		"abr": "antycataglyphishelmet",
+		"price": 2125,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Power_Head_A"
+	},
+	{
+		"abr": "antychainarmor",
+		"price": 204,
+		"category": "Anty gear",
+		"defname": "AT_AP_Chain_A"
+	},
+	{
+		"abr": "antycommendercloak",
+		"price": 667,
+		"category": "Anty gear",
+		"defname": "AT_AP_CO_B"
+	},
+	{
+		"abr": "antycroptop",
+		"price": 203,
+		"category": "Anty Apparel",
+		"defname": "AT_AP_St_F"
+	},
+	{
+		"abr": "antydetonationphermone",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "Antypheromone_Suicide"
+	},
+	{
+		"abr": "antydinoponeraadditionalarmor",
+		"price": 3575,
+		"category": "Anty gear",
+		"defname": "AT_AP_AdditionalPower_C"
+	},
+	{
+		"abr": "antydinoponeraarmor",
+		"price": 5067,
+		"category": "Anty gear",
+		"defname": "AT_AP_Power_C"
+	},
+	{
+		"abr": "antydinoponerahelmet",
+		"price": 2975,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Power_Head_C"
+	},
+	{
+		"abr": "antydorylusegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "EggAnty_Dorylus"
+	},
+	{
+		"abr": "antydreadnought",
+		"price": 166667,
+		"category": "Animal",
+		"defname": "AT_dreadnought"
+	},
+	{
+		"abr": "antyegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "EggAnty"
+	},
+	{
+		"abr": "antyexoskeleton",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "AntyExoskeleton"
+	},
+	{
+		"abr": "antyflakvest",
+		"price": 375,
+		"category": "Anty gear",
+		"defname": "AT_AP_Flakvest"
+	},
+	{
+		"abr": "antyglass",
+		"price": 18,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Glass_A"
+	},
+	{
+		"abr": "antyhiveguard",
+		"price": 166667,
+		"category": "Animal",
+		"defname": "AT_Hiveguard"
+	},
+	{
+		"abr": "antyhyperreconstructiondevice",
+		"price": 3675,
+		"category": "Furniture",
+		"defname": "AT_Superregenerationdevice"
+	},
+	{
+		"abr": "antyjacket",
+		"price": 375,
+		"category": "Anty Apparel",
+		"defname": "AT_AP_St_D"
+	},
+	{
+		"abr": "antylinepithemaegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "EggAnty_Linepithema_humile"
+	},
+	{
+		"abr": "antymachinebutchertable",
+		"price": 433,
+		"category": "Production",
+		"defname": "AntyTableButcher"
+	},
+	{
+		"abr": "antymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Anty"
+	},
+	{
+		"abr": "antymilitaryuniform",
+		"price": 608,
+		"category": "Anty gear",
+		"defname": "AT_AP_Shooter_A"
+	},
+	{
+		"abr": "antymilitaryuniformcloak",
+		"price": 667,
+		"category": "Anty gear",
+		"defname": "AT_AP_SH_A"
+	},
+	{
+		"abr": "antynylanderiaadditionalarmor",
+		"price": 2725,
+		"category": "Anty gear",
+		"defname": "AT_AP_AdditionalPower_E"
+	},
+	{
+		"abr": "antynylanderiaarmor",
+		"price": 4217,
+		"category": "Anty gear",
+		"defname": "AT_AP_Power_E"
+	},
+	{
+		"abr": "antynylanderiahelmet",
+		"price": 2975,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Power_Head_E"
+	},
+	{
+		"abr": "antyorbitalsupportkit",
+		"price": 200,
+		"category": "Anty Apparel",
+		"defname": "AT_Apparel_orbitalbombardment"
+	},
+	{
+		"abr": "antyparaponeraadditionalarmor",
+		"price": 3575,
+		"category": "Anty gear",
+		"defname": "AT_AP_AdditionalPower_D"
+	},
+	{
+		"abr": "antyparaponeraarmor",
+		"price": 5067,
+		"category": "Anty gear",
+		"defname": "AT_AP_Power_D"
+	},
+	{
+		"abr": "antyparaponerahelmet",
+		"price": 2975,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Power_Head_D"
+	},
+	{
+		"abr": "antypheromonepack",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "Anty_pheromone"
+	},
+	{
+		"abr": "antyplatehelm",
+		"price": 186,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Helm_A"
+	},
+	{
+		"abr": "antyreinforcedexoskeleton",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "AT_Reinforcedexoskeleton_Thing"
+	},
+	{
+		"abr": "antyshirt",
+		"price": 203,
+		"category": "Anty Apparel",
+		"defname": "AT_AP_St_A"
+	},
+	{
+		"abr": "antyshootingpheromone",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "Antypheromone_Shooting"
+	},
+	{
+		"abr": "antysolenopsisegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "EggAnty_Solenopsis_Invicta"
+	},
+	{
+		"abr": "antytapinomaegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "EggAnty_Tapinoma_melanocephalum"
+	},
+	{
+		"abr": "antytri-jaw",
+		"price": 166667,
+		"category": "Animal",
+		"defname": "AT_TriJaw"
+	},
+	{
+		"abr": "antyx-wargiftbox",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "AT_PP_S"
+	},
+	{
+		"abr": "aphidextract",
+		"price": 10,
+		"category": "Animal products",
+		"defname": "AT_Aphidextract"
+	},
+	{
+		"abr": "aphidfarm",
+		"price": 2333,
+		"category": "Production",
+		"defname": "At_Aphidfarm"
+	},
+	{
+		"abr": "combatgluelauncher",
+		"price": 1558,
+		"category": "Anty weapons",
+		"defname": "AT_Combatglue"
+	},
+	{
+		"abr": "combatglueshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_AT_glueBomb"
+	},
+	{
+		"abr": "combat-stimjelly",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Battlestimulation_jelly_thing"
+	},
+	{
+		"abr": "copymachiningtable",
+		"price": 642,
+		"category": "Production",
+		"defname": "AntyCopyTableMachining"
+	},
+	{
+		"abr": "copytailorbench",
+		"price": 492,
+		"category": "Production",
+		"defname": "AntyCopyTailoringBench"
+	},
+	{
+		"abr": "dreadnoughtcocoon",
+		"price": 867,
+		"category": "Manufactured",
+		"defname": "AT_EggDreadnought"
+	},
+	{
+		"abr": "exoskeletonautomine",
+		"price": 1642,
+		"category": "Production",
+		"defname": "AntyExoskeleton_Production"
+	},
+	{
+		"abr": "exoskeletonchunkcoverkit",
+		"price": 425,
+		"category": "Anty Apparel",
+		"defname": "AT_Apparel_chunk"
+	},
+	{
+		"abr": "experimentaltransitionrefleum",
+		"price": 1333,
+		"category": "Manufactured",
+		"defname": "AntyTransitionRefleum_Thing_Test"
+	},
+	{
+		"abr": "generestorationcapsule",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "Anty_Generestorationcapsule"
+	},
+	{
+		"abr": "halberd",
+		"price": 295,
+		"category": "Anty weapons",
+		"defname": "AT_Halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 295,
+		"category": "Anty weapons",
+		"defname": "AT_Hammer"
+	},
+	{
+		"abr": "hiveguardcocoon",
+		"price": 867,
+		"category": "Manufactured",
+		"defname": "AT_EggHiveguard"
+	},
+	{
+		"abr": "lumpofdirt",
+		"price": 333,
+		"category": "Items",
+		"defname": "AT_RandomBox"
+	},
+	{
+		"abr": "nutritionaljelly",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Nutritional_jelly_thing"
+	},
+	{
+		"abr": "proty",
+		"price": 583,
+		"category": "Animals",
+		"defname": "Anty_prototype"
+	},
+	{
+		"abr": "protyegg",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EggProty"
+	},
+	{
+		"abr": "protyegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggProtyUn"
+	},
+	{
+		"abr": "protygum",
+		"price": 0,
+		"category": "Foods",
+		"defname": "ProtyGum"
+	},
+	{
+		"abr": "quickfieldcoverkit",
+		"price": 1108,
+		"category": "Anty Apparel",
+		"defname": "AT_Apparel_barricade"
+	},
+	{
+		"abr": "quickt-bunkerkit",
+		"price": 1450,
+		"category": "Anty Apparel",
+		"defname": "AT_Apparel_bunker"
+	},
+	{
+		"abr": "recycleartillery-clusteraddon",
+		"price": 12675,
+		"category": "Security",
+		"defname": "Anty_RecycleTurretD"
+	},
+	{
+		"abr": "recycleturret-insideaddon",
+		"price": 1467,
+		"category": "Security",
+		"defname": "Anty_RecycleTurretB"
+	},
+	{
+		"abr": "recycleturret-obstructionaddon",
+		"price": 2133,
+		"category": "Security",
+		"defname": "Anty_RecycleTurretC"
+	},
+	{
+		"abr": "recycleturret-outsideaddon",
+		"price": 1467,
+		"category": "Security",
+		"defname": "Anty_RecycleTurret"
+	},
+	{
+		"abr": "recyclecore",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "Anty_Recyclecore"
+	},
+	{
+		"abr": "red-burstcluster",
+		"price": 5658,
+		"category": "Anty weapons",
+		"defname": "AT_hydroheliumion_C"
+	},
+	{
+		"abr": "red-bursthalberd",
+		"price": 3267,
+		"category": "Anty weapons",
+		"defname": "AT_RedHalberd"
+	},
+	{
+		"abr": "red-burstlinerifle",
+		"price": 3900,
+		"category": "Anty weapons",
+		"defname": "AT_hydroheliumion_B"
+	},
+	{
+		"abr": "red-burstrifle",
+		"price": 3900,
+		"category": "Anty weapons",
+		"defname": "AT_hydroheliumion_A"
+	},
+	{
+		"abr": "refleum",
+		"price": 22,
+		"category": "Raw resources",
+		"defname": "Refleum"
+	},
+	{
+		"abr": "refleumgasthrower",
+		"price": 4350,
+		"category": "Anty weapons",
+		"defname": "AT_hydroheliumion_D"
+	},
+	{
+		"abr": "refleumgaspack",
+		"price": 775,
+		"category": "Anty Apparel",
+		"defname": "AT_Apparel_CombatSmoke"
+	},
+	{
+		"abr": "refleumincubator",
+		"price": 4433,
+		"category": "Production",
+		"defname": "At_farm"
+	},
+	{
+		"abr": "repurposedlandmine",
+		"price": 992,
+		"category": "Security",
+		"defname": "AT_TP_AMM"
+	},
+	{
+		"abr": "sickle",
+		"price": 203,
+		"category": "Anty weapons",
+		"defname": "AT_Sickle"
+	},
+	{
+		"abr": "swarmyegg",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "AT_Eggswarmy"
+	},
+	{
+		"abr": "transitionrefleum",
+		"price": 1333,
+		"category": "Manufactured",
+		"defname": "AntyTransitionRefleum_Thing"
+	},
+	{
+		"abr": "transitionrefleumincubator",
+		"price": 14150,
+		"category": "Production",
+		"defname": "At_TransitionRefleumincubator"
+	},
+	{
+		"abr": "tri-jawcocoon",
+		"price": 867,
+		"category": "Manufactured",
+		"defname": "AT_EggTriJaw"
 	}
 	],
-	"total": 1605
+	"total": 1742
 }

@@ -3576,7 +3576,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 500
     },
@@ -3598,7 +3598,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -3663,7 +3663,7 @@
       "defName": "AT_TriJaw",
       "enabled": true,
       "name": "Anty Tri-Jaw",
-      "price": 166667
+      "price": 1002
     },
     {
       "data": {
@@ -3726,7 +3726,7 @@
       "defName": "AT_dreadnought",
       "enabled": true,
       "name": "Anty Dreadnought",
-      "price": 166667
+      "price": 1000
     },
     {
       "data": {
@@ -3789,7 +3789,7 @@
       "defName": "AT_Hiveguard",
       "enabled": true,
       "name": "Anty Hive guard",
-      "price": 166667
+      "price": 1001
     },
     {
       "data": {
@@ -3850,7 +3850,7 @@
       "defName": "Anty",
       "enabled": true,
       "name": "Anty",
-      "price": 1367
+      "price": 100
     }
   ]
 }
