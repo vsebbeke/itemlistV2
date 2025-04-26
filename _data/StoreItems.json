@@ -5259,7 +5259,7 @@
 	{
 		"abr": "eltexcape",
 		"price": 1333,
-		"category": "Apparel",
+		"category": "Misc",
 		"defname": "VPE_Apparel_EltexCape"
 	},
 	{
@@ -9629,7 +9629,217 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "advancedbionicchefarm",
+		"price": 5083,
+		"category": "Ultratech",
+		"defname": "FSFAdvBionicCookingArm"
+	},
+	{
+		"abr": "archotechendogenefier",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoEndogenefier"
+	},
+	{
+		"abr": "archotechgeneremover",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoGeneRemover"
+	},
+	{
+		"abr": "archotechxenogenefier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_ArchoXenogenefier"
+	},
+	{
+		"abr": "bionicchefarm",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "FSFBionicCookingArm"
+	},
+	{
+		"abr": "bionicproductionarm",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "FSFBionicCraftingArm"
+	},
+	{
+		"abr": "crystalcarapace",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "BMT_CrystalChitin"
+	},
+	{
+		"abr": "darkglowpod",
+		"price": 83,
+		"category": "Special",
+		"defname": "AA_DarkGlowPod"
+	},
+	{
+		"abr": "deepchitin",
+		"price": 14,
+		"category": "Leathers",
+		"defname": "BMT_DeepChitin"
+	},
+	{
+		"abr": "fishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "BMT_FishMeatCore"
+	},
+	{
+		"abr": "fishskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "BMT_Fishskin"
+	},
+	{
+		"abr": "forsakenarmor",
+		"price": 5858,
+		"category": "Armor",
+		"defname": "AG_ForsakenMarineArmor"
+	},
+	{
+		"abr": "forsakenassaultrifle",
+		"price": 3175,
+		"category": "Weapons",
+		"defname": "AG_ForsakenAssaultRifle"
+	},
+	{
+		"abr": "forsakenbattleaxe",
+		"price": 2033,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBattleAxe"
+	},
+	{
+		"abr": "forsakenblackhydra",
+		"price": 1917,
+		"category": "Weapons",
+		"defname": "AG_ForsakenHydra"
+	},
+	{
+		"abr": "forsakenbow",
+		"price": 209,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBow"
+	},
+	{
+		"abr": "forsakenbulksword",
+		"price": 933,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBulkSword"
+	},
+	{
+		"abr": "forsakencloak",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "AG_ForsakenCloak"
+	},
+	{
+		"abr": "forsakenforge",
+		"price": 358,
+		"category": "Production",
+		"defname": "AG_ForsakenForge"
+	},
+	{
+		"abr": "forsakenhelmet",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "AG_ForsakenMarineHelmet"
+	},
+	{
+		"abr": "forsakenhood",
+		"price": 517,
+		"category": "Headgear",
+		"defname": "AG_Forsaken_Hood"
+	},
+	{
+		"abr": "forsakenkidcloak",
+		"price": 708,
+		"category": "Misc",
+		"defname": "AG_ForsakenCloak_Child"
+	},
+	{
+		"abr": "forsakenkidhood",
+		"price": 286,
+		"category": "Headgear",
+		"defname": "AG_Forsaken_Hood_Child"
+	},
+	{
+		"abr": "forsakenlongblade",
+		"price": 1700,
+		"category": "Weapons",
+		"defname": "AG_ForsakenLongBlade"
+	},
+	{
+		"abr": "forsakenpsycasterhelmet",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "AG_ForsakenMarineHelmetPsy"
+	},
+	{
+		"abr": "forsakenshotgun",
+		"price": 2958,
+		"category": "Weapons",
+		"defname": "AG_ForsakenShotgun"
+	},
+	{
+		"abr": "forsakensniperrifle",
+		"price": 2892,
+		"category": "Weapons",
+		"defname": "AG_ForsakenSniper"
+	},
+	{
+		"abr": "forsakenspear",
+		"price": 358,
+		"category": "Weapons",
+		"defname": "AG_ForsakenSpear"
+	},
+	{
+		"abr": "fragilechitin",
+		"price": 2,
+		"category": "Leathers",
+		"defname": "BMT_FragileChitin"
+	},
+	{
+		"abr": "hermeticarmor",
+		"price": 2025,
+		"category": "Armor",
+		"defname": "BMT_HermeticArmor"
+	},
+	{
+		"abr": "hermetichelmet",
+		"price": 1025,
+		"category": "Headgear",
+		"defname": "BMT_HermeticHelmet"
+	},
+	{
+		"abr": "pinnipedskin",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "BMT_Pinnipedskin"
+	},
+	{
+		"abr": "royalchitin",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "BMT_RoyalChitin"
+	},
+	{
+		"abr": "toughchitin",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "BMT_MediumChitin"
+	},
+	{
+		"abr": "ultimafabric",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "AG_Ultima"
 	}
 	],
-	"total": 1605
+	"total": 1640
 }

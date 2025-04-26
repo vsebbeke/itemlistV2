@@ -24,6 +24,18 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
@@ -84,7 +96,7 @@
     "version": "2.6.2.0"
   },
   {
-    "author": "Allie, Erin and Sarg",
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
@@ -171,7 +183,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.10.0"
+    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
   },
   {
     "author": "AobaKuma",
@@ -195,7 +207,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
+    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
   },
   {
     "author": "dhultgren",
@@ -207,7 +219,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.5"
   },
   {
     "author": "Aelanna",
@@ -252,22 +264,10 @@
     "version": null
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
   },
   {
     "author": "erdelf",
