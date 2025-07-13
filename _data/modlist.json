@@ -156,6 +156,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -172,6 +178,12 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since this fork: Arodoid\n    ",
