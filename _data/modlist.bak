@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "Lennoxicon",
@@ -42,10 +42,70 @@
     "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
+    "author": "rooki1",
+    "name": "Rimsenal - Storytellers Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Hair pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi, Sarg and Sokyran",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": "1718190143",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Weapon Racks",
+    "steamId": "2788630748",
+    "version": "1.4.3.0"
   },
   {
     "author": "Oskar Potocki and Legodude17",
@@ -57,6 +117,12 @@
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
     "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
     "version": "1.0.0.0"
   },
   {
@@ -72,6 +138,18 @@
     "version": null
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Teiwaz",
+    "name": "GTG Trader Core",
+    "steamId": "3682209120",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Teiwaz",
     "name": "Odyssey Orbital Trader",
     "steamId": null,
@@ -81,7 +159,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.2.0"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "Fuu Chan",
@@ -168,34 +246,22 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
-  },
-  {
-    "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since this fork: Arodoid\n    ",
-    "name": "Semi Random Research: Progression Fork",
-    "steamId": "3505290557",
-    "version": "1.0.0.0"
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.3.1.0"
+    "version": "3.3.2.0"
   },
   {
     "author": "HaiLuan",
     "name": "I will be back",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "SirMashedPotato",
-    "name": "Mashed's Bloodmoon",
-    "steamId": "3523186663",
-    "version": "1.0.0.0"
   },
   {
     "author": "Andromeda",
@@ -207,7 +273,7 @@
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
-    "version": "2.6.0.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "MRGames",
@@ -252,7 +318,7 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "author": "Oskar Potocki, Sokyran, Taranchuk and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
@@ -274,5 +340,29 @@
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": " Original author: Captain Muscles (Nathan Harbour)\r\n    Since this fork: Arodoid\r\n    ",
+    "name": "Semi Random Research: Progression Fork",
+    "steamId": "3505290557",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  },
+  {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - The Force (Continued)",
+    "steamId": "3539405590",
+    "version": "1.6.3"
   }
 ]
